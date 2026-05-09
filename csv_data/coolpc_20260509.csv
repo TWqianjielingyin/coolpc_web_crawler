@@ -1,0 +1,613 @@
+﻿category,brand,model,product,price,source_key
+CPU,Intel,Core Ultra,Intel Core Ultra 5 225F,4880,cpu_intel_core_ultra_5_225f
+CPU,Intel,Core Ultra,Intel Core Ultra 5 225,5280,cpu_intel_core_ultra_5_225
+CPU,Intel,Core Ultra,Intel Core Ultra 5 245KF,6300,cpu_intel_core_ultra_5_245kf
+CPU,Intel,Core Ultra,Intel Core Ultra 5 245K,6990,cpu_intel_core_ultra_5_245k
+CPU,Intel,Core Ultra,Intel Core Ultra 7 265KF,9700,cpu_intel_core_ultra_7_265kf
+CPU,Intel,Core Ultra,Intel Core Ultra 7 265K,10200,cpu_intel_core_ultra_7_265k
+CPU,Intel,Core Ultra,Intel Core Ultra 9 285K,18600,cpu_intel_core_ultra_9_285k
+CPU,Intel,Core Ultra,Intel Core Ultra 5 250KF Plus,8300,cpu_intel_core_ultra_5_250kf_plus
+CPU,Intel,Core Ultra,Intel Core Ultra 5 250K Plus,8800,cpu_intel_core_ultra_5_250k_plus
+CPU,Intel,Core Ultra,Intel Core Ultra 7 270K Plus,12500,cpu_intel_core_ultra_7_270k_plus
+CPU,Intel,i3,Intel i3-14100,4200,cpu_intel_i3_14100
+CPU,Intel,i5,Intel i5-14400,6950,cpu_intel_i5_14400
+CPU,Intel,i7,Intel i7-14700,11500,cpu_intel_i7_14700
+CPU,Intel,i5,Intel i5-12400F,4850,cpu_intel_i5_12400f
+CPU,Intel,i5,Intel i5-12400,5850,cpu_intel_i5_12400
+CPU,AMD,R5,AMD R5 3400G,2099,cpu_amd_r5_3400g
+CPU,AMD,R5,AMD R5 5500GT,4190,cpu_amd_r5_5500gt
+CPU,AMD,R5,AMD R5 5500X3D,5390,cpu_amd_r5_5500x3d
+CPU,AMD,R5,AMD R5 5600GT,4690,cpu_amd_r5_5600gt
+CPU,AMD,R5,AMD R5 7500F,4790,cpu_amd_r5_7500f
+CPU,AMD,R7,AMD R7 7700,7190,cpu_amd_r7_7700
+CPU,AMD,R7,AMD R7 7800X3D,9990,cpu_amd_r7_7800x3d
+CPU,AMD,R5,AMD R5 8400F,4950,cpu_amd_r5_8400f
+CPU,AMD,R5,AMD R5 8500G,5090,cpu_amd_r5_8500g
+CPU,AMD,R5,AMD R5 8600G,6450,cpu_amd_r5_8600g
+CPU,AMD,R7,AMD R7 8700G,9450,cpu_amd_r7_8700g
+CPU,AMD,R5,AMD R5 9500F,6290,cpu_amd_r5_9500f
+CPU,AMD,R5,AMD R5 9600X,7950,cpu_amd_r5_9600x
+CPU,AMD,R7,AMD R7 9700X,11450,cpu_amd_r7_9700x
+CPU,AMD,R7,AMD R7 9800X3D,16150,cpu_amd_r7_9800x3d
+CPU,AMD,R7,AMD R7 9850X3D,17050,cpu_amd_r7_9850x3d
+CPU,AMD,R9,AMD R9 9900X,14250,cpu_amd_r9_9900x
+CPU,AMD,R9,AMD R9 9900X3D,20450,cpu_amd_r9_9900x3d
+CPU,AMD,R9,AMD R9 9950X,19950,cpu_amd_r9_9950x
+CPU,AMD,R9,AMD R9 9950X3D,23950,cpu_amd_r9_9950x3d
+MotherBoard,ASUS,H610,ASUS PRIME H610I-PLUS-CSM,3590,motherboard_asus_prime_h610i_plus_csm
+MotherBoard,ASUS,H610,ASUS PRIME H610M-E-CSM,2490,motherboard_asus_prime_h610m_e_csm
+MotherBoard,ASUS,H610,ASUS PRIME H610M-F,2690,motherboard_asus_prime_h610m_f
+MotherBoard,ASUS,H610,ASUS PRIME H610M-K-CSM,2990,motherboard_asus_prime_h610m_k_csm
+MotherBoard,MSI,H610,MSI PRO H610M-S,2090,motherboard_msi_pro_h610m_s
+MotherBoard,MSI,H610,MSI PRO H610M-E,2290,motherboard_msi_pro_h610m_e
+MotherBoard,ASRock,H610,ASRock H610M-H2/M.2 D5,1990,motherboard_asrock_h610m_h2_m_2_d5
+MotherBoard,ASUS,H610,ASUS PRIME H610M-F D4 R2.0-CSM,2690,motherboard_asus_prime_h610m_f_d4_r2_0_csm
+MotherBoard,ASUS,H610,ASUS PRIME H610M-K D4-CSM,2890,motherboard_asus_prime_h610m_k_d4_csm
+MotherBoard,ASUS,H610,ASUS PRIME H610I-PLUS D4-CSM,3490,motherboard_asus_prime_h610i_plus_d4_csm
+MotherBoard,GIGABYTE,H610,GIGABYTE H610M K DDR4,1990,motherboard_gigabyte_h610m_k_ddr4
+MotherBoard,GIGABYTE,H610,GIGABYTE H610M H V2 DDR4,2690,motherboard_gigabyte_h610m_h_v2_ddr4
+MotherBoard,GIGABYTE,H610,GIGABYTE H610M S2H V2 DDR4,2790,motherboard_gigabyte_h610m_s2h_v2_ddr4
+MotherBoard,MSI,H610,MSI PRO H610M-S DDR4,1990,motherboard_msi_pro_h610m_s_ddr4
+MotherBoard,MSI,H610,MSI PRO H610M-E DDR4,2290,motherboard_msi_pro_h610m_e_ddr4
+MotherBoard,ASRock,H610,ASRock H610M-ITX/eDP,3190,motherboard_asrock_h610m_itx_edp
+MotherBoard,ASRock,H610,ASRock H610M-H2/M.2,1990,motherboard_asrock_h610m_h2_m_2
+MotherBoard,ASRock,H610,ASRock H610M COMBO II,2290,motherboard_asrock_h610m_combo_ii
+MotherBoard,ASUS,B760,ASUS PRIME B760M-F D4-CSM,2890,motherboard_asus_prime_b760m_f_d4_csm
+MotherBoard,ASUS,B760,ASUS PRIME B760M-K D4-CSM,2990,motherboard_asus_prime_b760m_k_d4_csm
+MotherBoard,ASUS,B760,ASUS PRIME B760M-A D4-CSM,3190,motherboard_asus_prime_b760m_a_d4_csm
+MotherBoard,ASUS,B760,ASUS PRIME B760M-A WIFI D4-CSM,3990,motherboard_asus_prime_b760m_a_wifi_d4_csm
+MotherBoard,ASUS,B760,ASUS B760M-AYW WIFI D4,3490,motherboard_asus_b760m_ayw_wifi_d4
+MotherBoard,ASUS,B760,ASUS TUF GAMING B760M-E D4,4490,motherboard_asus_tuf_gaming_b760m_e_d4
+MotherBoard,ASUS,B760,ASUS TUF GAMING B760M-PLUS WIFI D4,4990,motherboard_asus_tuf_gaming_b760m_plus_wifi_d4
+MotherBoard,ASUS,B760,ASUS TUF GAMING B760-PLUS WIFI D4,5490,motherboard_asus_tuf_gaming_b760_plus_wifi_d4
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M K V2 DDR4,2790,motherboard_gigabyte_b760m_k_v2_ddr4
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M D DDR4,2790,motherboard_gigabyte_b760m_d_ddr4
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M H DDR4,2990,motherboard_gigabyte_b760m_h_ddr4
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M GAMING DDR4,3690,motherboard_gigabyte_b760m_gaming_ddr4
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M GAMING PLUS WIFI DDR4,3790,motherboard_gigabyte_b760m_gaming_plus_wifi_ddr4
+MotherBoard,MSI,B760,MSI PRO B760M-E DDR4,2590,motherboard_msi_pro_b760m_e_ddr4
+MotherBoard,MSI,B760,MSI PRO B760M-B DDR4,2790,motherboard_msi_pro_b760m_b_ddr4
+MotherBoard,MSI,B760,MSI PRO B760M-P DDR4,2990,motherboard_msi_pro_b760m_p_ddr4
+MotherBoard,MSI,B760,MSI B760M BOMBER DDR4,2790,motherboard_msi_b760m_bomber_ddr4
+MotherBoard,MSI,B760,MSI B760M BOMBER WIFI DDR4,3190,motherboard_msi_b760m_bomber_wifi_ddr4
+MotherBoard,ASUS,B760,ASUS B760M-AYW WIFI,3090,motherboard_asus_b760m_ayw_wifi
+MotherBoard,ASUS,B760,ASUS PRIME B760M-F-CSM,2990,motherboard_asus_prime_b760m_f_csm
+MotherBoard,ASUS,B760,ASUS PRIME B760M-K-CSM,2990,motherboard_asus_prime_b760m_k_csm
+MotherBoard,ASUS,B760,ASUS PRIME B760M-A-CSM,3190,motherboard_asus_prime_b760m_a_csm
+MotherBoard,ASUS,B760,ASUS PRIME B760M-A WIFI-CSM,3990,motherboard_asus_prime_b760m_a_wifi_csm
+MotherBoard,ASUS,B760,ASUS TUF GAMING B760M-PLUS WIFI II,4490,motherboard_asus_tuf_gaming_b760m_plus_wifi_ii
+MotherBoard,ASUS,B760,ASUS TUF GAMING B760-PLUS WIFI,4590,motherboard_asus_tuf_gaming_b760_plus_wifi
+MotherBoard,ASUS,B760,ASUS ProArt B760-CREATOR WIFI,5990,motherboard_asus_proart_b760_creator_wifi
+MotherBoard,ASUS,B760,ASUS ROG STRIX B760-A GAMING WIFI,4990,motherboard_asus_rog_strix_b760_a_gaming_wifi
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M E,2990,motherboard_gigabyte_b760m_e
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M H V2,2990,motherboard_gigabyte_b760m_h_v2
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M DS3H GEN5,3990,motherboard_gigabyte_b760m_ds3h_gen5
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M DS3H WIFI6E GEN5,4490,motherboard_gigabyte_b760m_ds3h_wifi6e_gen5
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M DS3H AX,4490,motherboard_gigabyte_b760m_ds3h_ax
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M GAMING WIFI6 PLUS GEN5,3790,motherboard_gigabyte_b760m_gaming_wifi6_plus_gen5
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M GAMING X WIFI6E GEN5,4990,motherboard_gigabyte_b760m_gaming_x_wifi6e_gen5
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M AORUS ELITE AX,5290,motherboard_gigabyte_b760m_aorus_elite_ax
+MotherBoard,GIGABYTE,B760,GIGABYTE B760M AORUS ELITE WIFI6E-P GEN5,5990,motherboard_gigabyte_b760m_aorus_elite_wifi6e_p_gen5
+MotherBoard,MSI,B760,MSI PRO B760M-E,2590,motherboard_msi_pro_b760m_e
+MotherBoard,MSI,B760,MSI PRO B760M-B,2790,motherboard_msi_pro_b760m_b
+MotherBoard,MSI,B760,MSI PRO B760M-P,3090,motherboard_msi_pro_b760m_p
+MotherBoard,MSI,B760,MSI PRO B760M-A WIFI,3890,motherboard_msi_pro_b760m_a_wifi
+MotherBoard,MSI,B760,MSI B760M BOMBER,2790,motherboard_msi_b760m_bomber
+MotherBoard,MSI,B760,MSI B760M BOMBER WIFI,3190,motherboard_msi_b760m_bomber_wifi
+MotherBoard,MSI,B760,MSI B760M GAMING WIFI,3690,motherboard_msi_b760m_gaming_wifi
+MotherBoard,MSI,B760,MSI B760M GAMING PLUS WIFI,4090,motherboard_msi_b760m_gaming_plus_wifi
+MotherBoard,MSI,B760,MSI B760 GAMING PLUS WIFI,4290,motherboard_msi_b760_gaming_plus_wifi
+MotherBoard,ASRock,B760,ASRock B760M-HDV/M.2,2390,motherboard_asrock_b760m_hdv_m_2
+MotherBoard,ASRock,B760,ASRock B760M PG LIGHTNING,3890,motherboard_asrock_b760m_pg_lightning
+MotherBoard,ASRock,B760,ASRock B760M Steel Legend WiFi,3490,motherboard_asrock_b760m_steel_legend_wifi
+MotherBoard,ASUS,Z790,ASUS PRIME Z790-P D4-CSM,6490,motherboard_asus_prime_z790_p_d4_csm
+MotherBoard,ASUS,Z790,ASUS PRIME Z790-A WIFI-CSM,6490,motherboard_asus_prime_z790_a_wifi_csm
+MotherBoard,MSI,Z790,MSI PRO Z790-P WIFI,5290,motherboard_msi_pro_z790_p_wifi
+MotherBoard,ASUS,H810,ASUS PRIME H810M-K-CSM,2990,motherboard_asus_prime_h810m_k_csm
+MotherBoard,ASUS,H810,ASUS PRIME H810M-E-CSM,3190,motherboard_asus_prime_h810m_e_csm
+MotherBoard,GIGABYTE,H810,GIGABYTE H810M K GEN5,2990,motherboard_gigabyte_h810m_k_gen5
+MotherBoard,GIGABYTE,H810,GIGABYTE H810M H,3190,motherboard_gigabyte_h810m_h
+MotherBoard,MSI,H810,MSI PRO H810M-E,2790,motherboard_msi_pro_h810m_e
+MotherBoard,MSI,H810,MSI PRO H810M-B,3490,motherboard_msi_pro_h810m_b
+MotherBoard,MSI,H810,MSI PRO H810M-B WIFI6E,3690,motherboard_msi_pro_h810m_b_wifi6e
+MotherBoard,ASRock,H810,ASRock H810M-H,2290,motherboard_asrock_h810m_h
+MotherBoard,ASRock,H810,ASRock H810M-X,2690,motherboard_asrock_h810m_x
+MotherBoard,ASRock,H810,ASRock H810M-X WIFI,2990,motherboard_asrock_h810m_x_wifi
+MotherBoard,ASUS,B860,ASUS ROG STRIX B860-I GAMING WIFI,6490,motherboard_asus_rog_strix_b860_i_gaming_wifi
+MotherBoard,ASUS,B860,ASUS B860M-E-CSM,3490,motherboard_asus_b860m_e_csm
+MotherBoard,ASUS,B860,ASUS B860M AYW GAMING WIFI,3990,motherboard_asus_b860m_ayw_gaming_wifi
+MotherBoard,ASUS,B860,ASUS PRIME B860M-K-CSM,3990,motherboard_asus_prime_b860m_k_csm
+MotherBoard,ASUS,B860,ASUS PRIME B860M-A-CSM,4690,motherboard_asus_prime_b860m_a_csm
+MotherBoard,ASUS,B860,ASUS PRIME B860M-A WIFI-CSM,5190,motherboard_asus_prime_b860m_a_wifi_csm
+MotherBoard,ASUS,B860,ASUS B860M MAX GAMING AX,5090,motherboard_asus_b860m_max_gaming_ax
+MotherBoard,ASUS,B860,ASUS TUF GAMING B860M-PLUS WIFI,6490,motherboard_asus_tuf_gaming_b860m_plus_wifi
+MotherBoard,ASUS,B860,ASUS TUF GAMING B860-PLUS WIFI,6790,motherboard_asus_tuf_gaming_b860_plus_wifi
+MotherBoard,ASUS,B860,ASUS ROG STRIX B860-G GAMING WIFI,7490,motherboard_asus_rog_strix_b860_g_gaming_wifi
+MotherBoard,ASUS,B860,ASUS ROG STRIX B860-A GAMING WIFI,7190,motherboard_asus_rog_strix_b860_a_gaming_wifi
+MotherBoard,ASUS,B860,ASUS ROG STRIX B860-A GAMING WIFI S,7690,motherboard_asus_rog_strix_b860_a_gaming_wifi_s
+MotherBoard,ASUS,B860,ASUS ROG STRIX B860-F GAMING WIFI,8490,motherboard_asus_rog_strix_b860_f_gaming_wifi
+MotherBoard,GIGABYTE,B860,GIGABYTE B860M H,3490,motherboard_gigabyte_b860m_h
+MotherBoard,GIGABYTE,B860,GIGABYTE B860M D2H,3990,motherboard_gigabyte_b860m_d2h
+MotherBoard,GIGABYTE,B860,GIGABYTE B860M GAMING WIFI6,4690,motherboard_gigabyte_b860m_gaming_wifi6
+MotherBoard,GIGABYTE,B860,GIGABYTE B860M DS3H WIFI6E,5290,motherboard_gigabyte_b860m_ds3h_wifi6e
+MotherBoard,GIGABYTE,B860,GIGABYTE B860M GAMING X WIFI6E,5590,motherboard_gigabyte_b860m_gaming_x_wifi6e
+MotherBoard,GIGABYTE,B860,GIGABYTE B860M AORUS ELITE WIFI6E,6490,motherboard_gigabyte_b860m_aorus_elite_wifi6e
+MotherBoard,GIGABYTE,B860,GIGABYTE B860M AORUS ELITE WIFI6E+RTX5070 EAGLE OC,30490,motherboard_gigabyte_b860m_aorus_elite_wifi6e_rtx5070_eagle_oc
+MotherBoard,GIGABYTE,B860,GIGABYTE B860M AORUS ELITE WIFI6E ICE,6490,motherboard_gigabyte_b860m_aorus_elite_wifi6e_ice
+MotherBoard,GIGABYTE,B860,GIGABYTE B860M AORUS ELITE WIFI6E ICE+RTX5070 EAGLE OC,30990,motherboard_gigabyte_b860m_aorus_elite_wifi6e_ice_rtx5070_eagle_oc
+MotherBoard,GIGABYTE,B860,GIGABYTE B860 EAGLE WIFI6E,5990,motherboard_gigabyte_b860_eagle_wifi6e
+MotherBoard,GIGABYTE,B860,GIGABYTE B860 GAMING X WIFI6E,6490,motherboard_gigabyte_b860_gaming_x_wifi6e
+MotherBoard,GIGABYTE,B860,GIGABYTE B860 AORUS ELITE WIFI7 ICE,7490,motherboard_gigabyte_b860_aorus_elite_wifi7_ice
+MotherBoard,MSI,B860,MSI MPG B860I EDGE TI WIFI,5990,motherboard_msi_mpg_b860i_edge_ti_wifi
+MotherBoard,MSI,B860,MSI PRO B860M-E,3490,motherboard_msi_pro_b860m_e
+MotherBoard,MSI,B860,MSI PRO B860M-X,3790,motherboard_msi_pro_b860m_x
+MotherBoard,MSI,B860,MSI PRO B860M-B WIFI,4290,motherboard_msi_pro_b860m_b_wifi
+MotherBoard,MSI,B860,MSI B860M GAMING WIFI,4590,motherboard_msi_b860m_gaming_wifi
+MotherBoard,MSI,B860,MSI B860M GAMING PLUS WIFI,5690,motherboard_msi_b860m_gaming_plus_wifi
+MotherBoard,MSI,B860,MSI MAG B860M MORTAR WIFI,6490,motherboard_msi_mag_b860m_mortar_wifi
+MotherBoard,MSI,B860,MSI PRO B860-P,4890,motherboard_msi_pro_b860_p
+MotherBoard,MSI,B860,MSI PRO B860-P WIFI,5390,motherboard_msi_pro_b860_p_wifi
+MotherBoard,MSI,B860,MSI B860 GAMING PLUS WIFI,6390,motherboard_msi_b860_gaming_plus_wifi
+MotherBoard,MSI,B860,MSI MAG B860 TOMAHAWK WIFI,6890,motherboard_msi_mag_b860_tomahawk_wifi
+MotherBoard,ASRock,B860,ASRock B860I WiFi,4990,motherboard_asrock_b860i_wifi
+MotherBoard,ASRock,B860,ASRock B860M-H2,2990,motherboard_asrock_b860m_h2
+MotherBoard,ASRock,B860,ASRock B860M Rock WiFi,4190,motherboard_asrock_b860m_rock_wifi
+MotherBoard,ASRock,B860,ASRock B860M LiveMixer WiFi,4690,motherboard_asrock_b860m_livemixer_wifi
+MotherBoard,ASRock,B860,ASRock B860M-X WiFi,4990,motherboard_asrock_b860m_x_wifi
+MotherBoard,ASRock,B860,ASRock B860M Pro-A WiFi,4190,motherboard_asrock_b860m_pro_a_wifi
+MotherBoard,ASRock,B860,ASRock B860M Pro RS WiFi,5990,motherboard_asrock_b860m_pro_rs_wifi
+MotherBoard,ASRock,B860,ASRock B860M Steel Legend WiFi,5490,motherboard_asrock_b860m_steel_legend_wifi
+MotherBoard,ASRock,B860,ASRock B860 Rock WiFi 7,4390,motherboard_asrock_b860_rock_wifi_7
+MotherBoard,ASRock,B860,ASRock B860 Steel Legend WiFi,8290,motherboard_asrock_b860_steel_legend_wifi
+MotherBoard,ASUS,Z890,ASUS Z890 MAX GAMING WIFI7,7490,motherboard_asus_z890_max_gaming_wifi7
+MotherBoard,ASUS,Z890,ASUS PRIME Z890-P WIFI-CSM,8490,motherboard_asus_prime_z890_p_wifi_csm
+MotherBoard,ASUS,Z890,ASUS Z890 AYW GAMING WIFI W,8990,motherboard_asus_z890_ayw_gaming_wifi_w
+MotherBoard,ASUS,Z890,ASUS TUF GAMING Z890-PRO WIFI,10990,motherboard_asus_tuf_gaming_z890_pro_wifi
+MotherBoard,ASUS,Z890,ASUS ROG STRIX Z890-A GAMING WIFI,12990,motherboard_asus_rog_strix_z890_a_gaming_wifi
+MotherBoard,ASUS,Z890,ASUS ROG STRIX Z890-F GAMING WIFI,14990,motherboard_asus_rog_strix_z890_f_gaming_wifi
+MotherBoard,ASUS,Z890,ASUS ROG STRIX Z890-E GAMING WIFI,16490,motherboard_asus_rog_strix_z890_e_gaming_wifi
+MotherBoard,ASUS,Z890,ASUS ProArt Z890-CREATOR WIFI,14990,motherboard_asus_proart_z890_creator_wifi
+MotherBoard,ASUS,Z890,ASUS ROG MAXIMUS Z890 APEX,18990,motherboard_asus_rog_maximus_z890_apex
+MotherBoard,ASUS,Z890,ASUS ROG MAXIMUS Z890 HERO,20990,motherboard_asus_rog_maximus_z890_hero
+MotherBoard,ASUS,Z890,ASUS ROG MAXIMUS Z890 HERO BTF,20990,motherboard_asus_rog_maximus_z890_hero_btf
+MotherBoard,ASUS,Z890,ASUS ROG MAXIMUS Z890 EXTREME,34990,motherboard_asus_rog_maximus_z890_extreme
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890I AORUS ULTRA,11990,motherboard_gigabyte_z890i_aorus_ultra
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890M GAMING X,6990,motherboard_gigabyte_z890m_gaming_x
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890 UD WIFI6E,6990,motherboard_gigabyte_z890_ud_wifi6e
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890 EAGLE WIFI7,7990,motherboard_gigabyte_z890_eagle_wifi7
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890 EAGLE WIFI7 PLUS,8290,motherboard_gigabyte_z890_eagle_wifi7_plus
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890 GAMING X WIFI7,9290,motherboard_gigabyte_z890_gaming_x_wifi7
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890 AORUS ELITE WIFI7,9990,motherboard_gigabyte_z890_aorus_elite_wifi7
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890 AORUS ELITE WIFI7 ICE,9490,motherboard_gigabyte_z890_aorus_elite_wifi7_ice
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890 AORUS ELITE DUO X,11490,motherboard_gigabyte_z890_aorus_elite_duo_x
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890 AERO G,12990,motherboard_gigabyte_z890_aero_g
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890 AORUS PRO ICE,12990,motherboard_gigabyte_z890_aorus_pro_ice
+MotherBoard,GIGABYTE,Z890,GIGABYTE Z890 AORUS MASTER,17990,motherboard_gigabyte_z890_aorus_master
+MotherBoard,MSI,Z890,MSI MPG Z890I EDGE TI WIFI,10990,motherboard_msi_mpg_z890i_edge_ti_wifi
+MotherBoard,MSI,Z890,MSI PRO Z890-S WIFI,6990,motherboard_msi_pro_z890_s_wifi
+MotherBoard,MSI,Z890,MSI PRO Z890-S WIFI WHITE,6990,motherboard_msi_pro_z890_s_wifi_white
+MotherBoard,MSI,Z890,MSI PRO Z890-S WIFI PZ,7590,motherboard_msi_pro_z890_s_wifi_pz
+MotherBoard,MSI,Z890,MSI PRO Z890-P WIFI,7990,motherboard_msi_pro_z890_p_wifi
+MotherBoard,MSI,Z890,MSI PRO Z890-A WIFI,8490,motherboard_msi_pro_z890_a_wifi
+MotherBoard,MSI,Z890,MSI Z890 GAMING PLUS WIFI,8990,motherboard_msi_z890_gaming_plus_wifi
+MotherBoard,MSI,Z890,MSI MAG Z890 TOMAHAWK WIFI,9990,motherboard_msi_mag_z890_tomahawk_wifi
+MotherBoard,MSI,Z890,MSI MPG Z890 EDGE TI WIFI,12490,motherboard_msi_mpg_z890_edge_ti_wifi
+MotherBoard,MSI,Z890,MSI MPG Z890 CARBON WIFI,14690,motherboard_msi_mpg_z890_carbon_wifi
+MotherBoard,MSI,Z890,MSI MEG Z890 UNIFY-X,17690,motherboard_msi_meg_z890_unify_x
+MotherBoard,MSI,Z890,MSI MEG Z890 ACE,18990,motherboard_msi_meg_z890_ace
+MotherBoard,MSI,Z890,MSI MEG Z890 GODLIKE,34900,motherboard_msi_meg_z890_godlike
+MotherBoard,ASRock,Z890,ASRock Z890I Nova WiFi,11890,motherboard_asrock_z890i_nova_wifi
+MotherBoard,ASRock,Z890,ASRock Z890M Riptide WiFi,7990,motherboard_asrock_z890m_riptide_wifi
+MotherBoard,ASRock,Z890,ASRock Z890 Pro-A WiFi,5990,motherboard_asrock_z890_pro_a_wifi
+MotherBoard,ASRock,Z890,ASRock Z890 Pro RS WiFi,6290,motherboard_asrock_z890_pro_rs_wifi
+MotherBoard,ASRock,Z890,ASRock Z890 Pro RS WiFi White,6490,motherboard_asrock_z890_pro_rs_wifi_white
+MotherBoard,ASRock,Z890,ASRock Z890 Steel Legend WiFi,6990,motherboard_asrock_z890_steel_legend_wifi
+MotherBoard,ASRock,Z890,ASRock Z890 Nova WiFi,12990,motherboard_asrock_z890_nova_wifi
+MotherBoard,ASRock,Z890,ASRock Z890 Taichi Lite,13990,motherboard_asrock_z890_taichi_lite
+MotherBoard,ASRock,Z890,ASRock Z890 Taichi,14990,motherboard_asrock_z890_taichi
+MotherBoard,ASUS,A520,ASUS PRIME A520M-K/CSM,2090,motherboard_asus_prime_a520m_k_csm
+MotherBoard,GIGABYTE,A520,GIGABYTE A520M K V2,1990,motherboard_gigabyte_a520m_k_v2
+MotherBoard,GIGABYTE,A520,GIGABYTE A520M H ARGB,1990,motherboard_gigabyte_a520m_h_argb
+MotherBoard,MSI,A520,MSI A520M-A PRO,2090,motherboard_msi_a520m_a_pro
+MotherBoard,ASRock,A520,ASRock A520M-ITX/ac,3390,motherboard_asrock_a520m_itx_ac
+MotherBoard,ASRock,A520,ASRock A520M-HVS,1890,motherboard_asrock_a520m_hvs
+MotherBoard,ASUS,B550,ASUS PRIME B550M-K ARGB-CSM,2690,motherboard_asus_prime_b550m_k_argb_csm
+MotherBoard,ASUS,B550,ASUS PRIME B550M-K/CSM,2790,motherboard_asus_prime_b550m_k_csm
+MotherBoard,ASUS,B550,ASUS PRIME B550M-A AC,2890,motherboard_asus_prime_b550m_a_ac
+MotherBoard,ASUS,B550,ASUS TUF GAMING B550M-PLUS,3190,motherboard_asus_tuf_gaming_b550m_plus
+MotherBoard,ASUS,B550,ASUS TUF GAMING B550M-PLUS WIFI II,3590,motherboard_asus_tuf_gaming_b550m_plus_wifi_ii
+MotherBoard,GIGABYTE,B550,GIGABYTE B550M H ARGB,2490,motherboard_gigabyte_b550m_h_argb
+MotherBoard,GIGABYTE,B550,GIGABYTE B550M K,2690,motherboard_gigabyte_b550m_k
+MotherBoard,GIGABYTE,B550,GIGABYTE B550M GAMING X WIFI6,2990,motherboard_gigabyte_b550m_gaming_x_wifi6
+MotherBoard,GIGABYTE,B550,GIGABYTE B550M AORUS ELITE,2990,motherboard_gigabyte_b550m_aorus_elite
+MotherBoard,MSI,B550,MSI B550M-A PRO,2390,motherboard_msi_b550m_a_pro
+MotherBoard,MSI,B550,MSI B550M PRO-VDH WIFI,3090,motherboard_msi_b550m_pro_vdh_wifi
+MotherBoard,MSI,B550,MSI PRO B550M-B,3190,motherboard_msi_pro_b550m_b
+MotherBoard,ASRock,B550,ASRock B550M-ITX/ac,3990,motherboard_asrock_b550m_itx_ac
+MotherBoard,ASRock,A620,ASRock A620I Lightning WIFI,4790,motherboard_asrock_a620i_lightning_wifi
+MotherBoard,ASRock,A620,ASRock A620AI WiFi,4790,motherboard_asrock_a620ai_wifi
+MotherBoard,ASRock,A620,ASRock A620AM-HVS,2590,motherboard_asrock_a620am_hvs
+MotherBoard,ASUS,B650E,ASUS ROG STRIX B650E-I GAMING WIFI,8990,motherboard_asus_rog_strix_b650e_i_gaming_wifi
+MotherBoard,ASUS,B650,ASUS PRIME B650M-F-CSM,2990,motherboard_asus_prime_b650m_f_csm
+MotherBoard,ASUS,B650,ASUS PRIME B650M-R-CSM,3090,motherboard_asus_prime_b650m_r_csm
+MotherBoard,ASUS,B650,ASUS B650M-AYW WIFI,3990,motherboard_asus_b650m_ayw_wifi
+MotherBoard,ASUS,B650,ASUS TUF GAMING B650M-E WIFI,3990,motherboard_asus_tuf_gaming_b650m_e_wifi
+MotherBoard,ASUS,B650,ASUS TUF GAMING B650M-PLUS,4090,motherboard_asus_tuf_gaming_b650m_plus
+MotherBoard,ASUS,B650,ASUS TUF GAMING B650M-PLUS WIFI,4790,motherboard_asus_tuf_gaming_b650m_plus_wifi
+MotherBoard,ASUS,B650,ASUS TUF GAMING B650-E WIFI,4990,motherboard_asus_tuf_gaming_b650_e_wifi
+MotherBoard,ASUS,B650,ASUS TUF GAMING B650-PLUS WIFI,5490,motherboard_asus_tuf_gaming_b650_plus_wifi
+MotherBoard,ASUS,B650,ASUS ROG STRIX B650-A GAMING WIFI,5490,motherboard_asus_rog_strix_b650_a_gaming_wifi
+MotherBoard,GIGABYTE,B650,GIGABYTE B650M H,2990,motherboard_gigabyte_b650m_h
+MotherBoard,GIGABYTE,B650,GIGABYTE B650M GAMING WIFI,3490,motherboard_gigabyte_b650m_gaming_wifi
+MotherBoard,GIGABYTE,B650,GIGABYTE B650M GAMING X AX,3790,motherboard_gigabyte_b650m_gaming_x_ax
+MotherBoard,GIGABYTE,B650E,GIGABYTE B650EM FORCE WIFI6E,3990,motherboard_gigabyte_b650em_force_wifi6e
+MotherBoard,GIGABYTE,B650,GIGABYTE B650M AORUS ELITE AX ICE,5490,motherboard_gigabyte_b650m_aorus_elite_ax_ice
+MotherBoard,GIGABYTE,B650,GIGABYTE B650 EAGLE AX,4490,motherboard_gigabyte_b650_eagle_ax
+MotherBoard,GIGABYTE,B650E,GIGABYTE B650E EAGLE WIFI6E,4990,motherboard_gigabyte_b650e_eagle_wifi6e
+MotherBoard,GIGABYTE,B650E,GIGABYTE B650E AORUS ELITE X AX ICE,6990,motherboard_gigabyte_b650e_aorus_elite_x_ax_ice
+MotherBoard,MSI,B650,MSI MPG B650I EDGE WIFI,4990,motherboard_msi_mpg_b650i_edge_wifi
+MotherBoard,MSI,B650,MSI PRO B650M-B,2590,motherboard_msi_pro_b650m_b
+MotherBoard,MSI,B650,MSI PRO B650M-A WIFI,3990,motherboard_msi_pro_b650m_a_wifi
+MotherBoard,MSI,B650,MSI B650M BOMBER WIFI,3490,motherboard_msi_b650m_bomber_wifi
+MotherBoard,MSI,B650,MSI B650M GAMING WIFI,3690,motherboard_msi_b650m_gaming_wifi
+MotherBoard,MSI,B650,MSI B650M GAMING PLUS WIFI,4290,motherboard_msi_b650m_gaming_plus_wifi
+MotherBoard,MSI,B650,MSI B650 GAMING PLUS WIFI,4490,motherboard_msi_b650_gaming_plus_wifi
+MotherBoard,ASRock,B650,ASRock B650M-H/M.2+,2790,motherboard_asrock_b650m_h_m_2
+MotherBoard,ASRock,B650,ASRock B650M-HDV/M.2 White,3190,motherboard_asrock_b650m_hdv_m_2_white
+MotherBoard,ASRock,B650,ASRock B650M Pro RS,3390,motherboard_asrock_b650m_pro_rs
+MotherBoard,ASRock,B650,ASRock B650M PG Lightning WiFi,3690,motherboard_asrock_b650m_pg_lightning_wifi
+MotherBoard,ASRock,B650,ASRock B650M Pro X3D WIFI,4290,motherboard_asrock_b650m_pro_x3d_wifi
+MotherBoard,ASUS,B840,ASUS PRIME B840M-A-CSM,3390,motherboard_asus_prime_b840m_a_csm
+MotherBoard,GIGABYTE,B840,GIGABYTE B840M H,3590,motherboard_gigabyte_b840m_h
+MotherBoard,MSI,B840,MSI PRO B840-P WIFI,4590,motherboard_msi_pro_b840_p_wifi
+MotherBoard,MSI,B840,MSI B840 GAMING PLUS WIFI,4990,motherboard_msi_b840_gaming_plus_wifi
+MotherBoard,ASRock,B840,ASRock B840M-HVS,2990,motherboard_asrock_b840m_hvs
+MotherBoard,ASUS,B850,ASUS ROG STRIX B850-I GAMING WIFI,7990,motherboard_asus_rog_strix_b850_i_gaming_wifi
+MotherBoard,ASUS,B850,ASUS ROG STRIX B850-I GAMING WIFI7 W,9290,motherboard_asus_rog_strix_b850_i_gaming_wifi7_w
+MotherBoard,ASUS,B850,ASUS PRIME B850M-K-CSM,4490,motherboard_asus_prime_b850m_k_csm
+MotherBoard,ASUS,B850,ASUS B850M AYW GAMING WIFI,4990,motherboard_asus_b850m_ayw_gaming_wifi
+MotherBoard,ASUS,B850,ASUS TUF GAMING B850M-E WIFI,5490,motherboard_asus_tuf_gaming_b850m_e_wifi
+MotherBoard,ASUS,B850,ASUS TUF GAMING B850M-PLUS II,5990,motherboard_asus_tuf_gaming_b850m_plus_ii
+MotherBoard,ASUS,B850,ASUS TUF GAMING B850M-PLUS WIFI7,6490,motherboard_asus_tuf_gaming_b850m_plus_wifi7
+MotherBoard,ASUS,B850,ASUS TUF GAMING B850M-PLUS WIFI7 W,6590,motherboard_asus_tuf_gaming_b850m_plus_wifi7_w
+MotherBoard,ASUS,B850,ASUS B850 MAX GAMING WIFI W,5490,motherboard_asus_b850_max_gaming_wifi_w
+MotherBoard,ASUS,B850,ASUS TUF GAMING B850-E WIFI,5990,motherboard_asus_tuf_gaming_b850_e_wifi
+MotherBoard,ASUS,B850,ASUS TUF GAMING B850-PLUS WIFI,6990,motherboard_asus_tuf_gaming_b850_plus_wifi
+MotherBoard,ASUS,B850,ASUS TUF GAMING B850-BTF WIFI W,7990,motherboard_asus_tuf_gaming_b850_btf_wifi_w
+MotherBoard,ASUS,B850,ASUS TUF GAMING B850-PRO WIFI7 W NEO,7990,motherboard_asus_tuf_gaming_b850_pro_wifi7_w_neo
+MotherBoard,ASUS,B850,ASUS ProArt B850-CREATOR WIFI NEO,8490,motherboard_asus_proart_b850_creator_wifi_neo
+MotherBoard,ASUS,B850,ASUS ROG STRIX B850-G GAMING WIFI,7490,motherboard_asus_rog_strix_b850_g_gaming_wifi
+MotherBoard,ASUS,B850,ASUS ROG STRIX B850-A GAMING WIFI,7990,motherboard_asus_rog_strix_b850_a_gaming_wifi
+MotherBoard,ASUS,B850,ASUS ROG STRIX B850-A GAMING WIFI7 S NEO,8490,motherboard_asus_rog_strix_b850_a_gaming_wifi7_s_neo
+MotherBoard,ASUS,B850,ASUS ROG STRIX B850-F GAMING WIFI7 NEO,9490,motherboard_asus_rog_strix_b850_f_gaming_wifi7_neo
+MotherBoard,GIGABYTE,B850,GIGABYTE B850M DS3H,3690,motherboard_gigabyte_b850m_ds3h
+MotherBoard,GIGABYTE,B850,GIGABYTE B850M DS3H ICE,3690,motherboard_gigabyte_b850m_ds3h_ice
+MotherBoard,GIGABYTE,B850,GIGABYTE B850M FORCE WIFI6E V2,4490,motherboard_gigabyte_b850m_force_wifi6e_v2
+MotherBoard,GIGABYTE,B850,GIGABYTE B850M GAMING X WIFI6E,5990,motherboard_gigabyte_b850m_gaming_x_wifi6e
+MotherBoard,GIGABYTE,B850,GIGABYTE B850 EAGLE WIFI6E,5990,motherboard_gigabyte_b850_eagle_wifi6e
+MotherBoard,GIGABYTE,B850,GIGABYTE B850 GAMING X WIFI6E,6790,motherboard_gigabyte_b850_gaming_x_wifi6e
+MotherBoard,GIGABYTE,B850,GIGABYTE B850M AORUS ELITE WIFI6E ICE,6190,motherboard_gigabyte_b850m_aorus_elite_wifi6e_ice
+MotherBoard,GIGABYTE,B850,GIGABYTE B850M AORUS ELITE WIFI7 ICE-P,6490,motherboard_gigabyte_b850m_aorus_elite_wifi7_ice_p
+MotherBoard,GIGABYTE,B850,GIGABYTE B850 AORUS ELITE WIFI7,7990,motherboard_gigabyte_b850_aorus_elite_wifi7
+MotherBoard,GIGABYTE,B850,GIGABYTE B850 AORUS ELITE WIFI7 ICE,7990,motherboard_gigabyte_b850_aorus_elite_wifi7_ice
+MotherBoard,GIGABYTE,B850,GIGABYTE B850 AORUS STEALTH,7990,motherboard_gigabyte_b850_aorus_stealth
+MotherBoard,GIGABYTE,B850,GIGABYTE B850 AORUS STEALTH ICE,7990,motherboard_gigabyte_b850_aorus_stealth_ice
+MotherBoard,MSI,B850,MSI MPG B850I EDGE TI WIFI,8990,motherboard_msi_mpg_b850i_edge_ti_wifi
+MotherBoard,MSI,B850,MSI PRO B850M-G,3690,motherboard_msi_pro_b850m_g
+MotherBoard,MSI,B850,MSI PRO B850M-P WIFI,4590,motherboard_msi_pro_b850m_p_wifi
+MotherBoard,MSI,B850,MSI PRO B850M-A WIFI,5290,motherboard_msi_pro_b850m_a_wifi
+MotherBoard,MSI,B850,MSI PRO B850M-A WIFI PZ,5290,motherboard_msi_pro_b850m_a_wifi_pz
+MotherBoard,MSI,B850,MSI B850M GAMING WIFI6E,4490,motherboard_msi_b850m_gaming_wifi6e
+MotherBoard,MSI,B850,MSI B850M GAMING PLUS WIFI6E,5290,motherboard_msi_b850m_gaming_plus_wifi6e
+MotherBoard,MSI,B850,MSI B850M GAMING PLUS WIFI,5490,motherboard_msi_b850m_gaming_plus_wifi
+MotherBoard,MSI,B850,MSI MAG B850M MORTAR,6290,motherboard_msi_mag_b850m_mortar
+MotherBoard,MSI,B850,MSI MAG B850M MORTAR WIFI,6790,motherboard_msi_mag_b850m_mortar_wifi
+MotherBoard,MSI,B850,MSI B850MPOWER,7490,motherboard_msi_b850mpower
+MotherBoard,MSI,B850,MSI PRO B850-P WIFI,5790,motherboard_msi_pro_b850_p_wifi
+MotherBoard,MSI,B850,MSI B850 GAMING PLUS WIFI,5790,motherboard_msi_b850_gaming_plus_wifi
+MotherBoard,MSI,B850,MSI B850 GAMING PLUS WIFI PZ,6290,motherboard_msi_b850_gaming_plus_wifi_pz
+MotherBoard,MSI,B850,MSI MAG B850 GAMING PLUS MAX WIFI,6290,motherboard_msi_mag_b850_gaming_plus_max_wifi
+MotherBoard,MSI,B850,MSI MAG B850 TOMAHAWK MAX WIFI II,8190,motherboard_msi_mag_b850_tomahawk_max_wifi_ii
+MotherBoard,MSI,B850,MSI MPG B850 EDGE TI WIFI,8490,motherboard_msi_mpg_b850_edge_ti_wifi
+MotherBoard,ASRock,B850,ASRock B850I LIGHTNING WIFI,6990,motherboard_asrock_b850i_lightning_wifi
+MotherBoard,ASRock,B850,ASRock B850M-X,3590,motherboard_asrock_b850m_x
+MotherBoard,ASRock,B850,ASRock B850M-X WIFI,3790,motherboard_asrock_b850m_x_wifi
+MotherBoard,ASRock,B850,ASRock B850M Pro-A,3990,motherboard_asrock_b850m_pro_a
+MotherBoard,ASRock,B850,ASRock B850M Pro-A WiFi,4190,motherboard_asrock_b850m_pro_a_wifi
+MotherBoard,ASRock,B850,ASRock B850M Pro RS,4590,motherboard_asrock_b850m_pro_rs
+MotherBoard,ASRock,B850,ASRock B850M Pro RS WiFi,4590,motherboard_asrock_b850m_pro_rs_wifi
+MotherBoard,ASRock,B850,ASRock B850M Pro RS WiFi White,4990,motherboard_asrock_b850m_pro_rs_wifi_white
+MotherBoard,ASRock,B850,ASRock B850M Challenger WiFi,4990,motherboard_asrock_b850m_challenger_wifi
+MotherBoard,ASRock,B850,ASRock B850M Challenger WiFi White,4990,motherboard_asrock_b850m_challenger_wifi_white
+MotherBoard,ASRock,B850,ASRock B850M Steel Legend WiFi,4990,motherboard_asrock_b850m_steel_legend_wifi
+MotherBoard,ASRock,B850,ASRock B850M Riptide WiFi,5690,motherboard_asrock_b850m_riptide_wifi
+MotherBoard,ASRock,B850,ASRock B850 Rock WiFi 7,4990,motherboard_asrock_b850_rock_wifi_7
+MotherBoard,ASRock,B850,ASRock B850 Challenger WiFi,5790,motherboard_asrock_b850_challenger_wifi
+MotherBoard,ASRock,B850,ASRock B850 Challenger WiFi White,5790,motherboard_asrock_b850_challenger_wifi_white
+MotherBoard,ASRock,B850,ASRock B850 Pro-A,5990,motherboard_asrock_b850_pro_a
+MotherBoard,ASRock,B850,ASRock B850 Pro RS,6490,motherboard_asrock_b850_pro_rs
+MotherBoard,ASUS,X870,ASUS ROG STRIX X870-I GAMING WIFI,13990,motherboard_asus_rog_strix_x870_i_gaming_wifi
+MotherBoard,ASUS,X870,ASUS PRIME X870-P-CSM,6690,motherboard_asus_prime_x870_p_csm
+MotherBoard,ASUS,X870,ASUS PRIME X870-P WIFI-CSM,7590,motherboard_asus_prime_x870_p_wifi_csm
+MotherBoard,ASUS,X870,ASUS X870 AYW GAMING WIFI W,7990,motherboard_asus_x870_ayw_gaming_wifi_w
+MotherBoard,ASUS,X870,ASUS X870 MAX GAMING WIFI7 W,8490,motherboard_asus_x870_max_gaming_wifi7_w
+MotherBoard,ASUS,X870,ASUS TUF GAMING X870-PLUS WIFI,9990,motherboard_asus_tuf_gaming_x870_plus_wifi
+MotherBoard,ASUS,X870,ASUS TUF GAMING X870-PRO WIFI7 W NEO,10990,motherboard_asus_tuf_gaming_x870_pro_wifi7_w_neo
+MotherBoard,ASUS,X870E,ASUS ProArt X870E-CREATOR WIFI,14990,motherboard_asus_proart_x870e_creator_wifi
+MotherBoard,ASUS,X870,ASUS ROG STRIX X870-A GAMING WIFI,12990,motherboard_asus_rog_strix_x870_a_gaming_wifi
+MotherBoard,ASUS,X870E,ASUS ROG STRIX X870E-H Gaming WiFi7 Hatsune Miku Edition,13990,motherboard_asus_rog_strix_x870e_h_gaming_wifi7_hatsune_miku_edition
+MotherBoard,ASUS,X870E,ASUS ROG STRIX X870E-A GAMING WIFI7 NEO,14990,motherboard_asus_rog_strix_x870e_a_gaming_wifi7_neo
+MotherBoard,ASUS,X870E,ASUS ROG STRIX X870E-E GAMING WIFI,14990,motherboard_asus_rog_strix_x870e_e_gaming_wifi
+MotherBoard,ASUS,X870E,ASUS ROG CROSSHAIR X870E HERO,20990,motherboard_asus_rog_crosshair_x870e_hero
+MotherBoard,ASUS,X870E,ASUS ROG CROSSHAIR X870E HERO BTF,20990,motherboard_asus_rog_crosshair_x870e_hero_btf
+MotherBoard,ASUS,X870E,ASUS ROG CROSSHAIR X870E DARK HERO,23990,motherboard_asus_rog_crosshair_x870e_dark_hero
+MotherBoard,ASUS,X870E,ASUS ROG CROSSHAIR X870E APEX,23990,motherboard_asus_rog_crosshair_x870e_apex
+MotherBoard,ASUS,X870E,ASUS ROG CROSSHAIR X870E EXTREME,36990,motherboard_asus_rog_crosshair_x870e_extreme
+MotherBoard,ASUS,X870E,ASUS ROG CROSSHAIR X870E GLACIAL,39990,motherboard_asus_rog_crosshair_x870e_glacial
+MotherBoard,GIGABYTE,X870,GIGABYTE X870 EAGLE WIFI7,7390,motherboard_gigabyte_x870_eagle_wifi7
+MotherBoard,GIGABYTE,X870,GIGABYTE X870 GAMING X WIFI7,9490,motherboard_gigabyte_x870_gaming_x_wifi7
+MotherBoard,GIGABYTE,X870,GIGABYTE X870I AORUS PRO ICE,10990,motherboard_gigabyte_x870i_aorus_pro_ice
+MotherBoard,GIGABYTE,X870,GIGABYTE X870 AORUS ELITE WIFI7,10490,motherboard_gigabyte_x870_aorus_elite_wifi7
+MotherBoard,GIGABYTE,X870,GIGABYTE X870 AORUS ELITE WIFI7 ICE,10490,motherboard_gigabyte_x870_aorus_elite_wifi7_ice
+MotherBoard,GIGABYTE,X870,GIGABYTE X870 AORUS STEALTH,10990,motherboard_gigabyte_x870_aorus_stealth
+MotherBoard,GIGABYTE,X870,GIGABYTE X870 AORUS STEALTH ICE,10990,motherboard_gigabyte_x870_aorus_stealth_ice
+MotherBoard,GIGABYTE,X870E,GIGABYTE X870E AORUS PRO,11990,motherboard_gigabyte_x870e_aorus_pro
+MotherBoard,GIGABYTE,X870E,GIGABYTE X870E AORUS PRO ICE,12990,motherboard_gigabyte_x870e_aorus_pro_ice
+MotherBoard,GIGABYTE,X870E,GIGABYTE X870E AERO X3D WOOD,13490,motherboard_gigabyte_x870e_aero_x3d_wood
+MotherBoard,GIGABYTE,X870E,GIGABYTE X870E AERO X3D DARK WOOD,13990,motherboard_gigabyte_x870e_aero_x3d_dark_wood
+MotherBoard,GIGABYTE,X870E,GIGABYTE X870E AORUS PRO X3D ICE,13990,motherboard_gigabyte_x870e_aorus_pro_x3d_ice
+MotherBoard,GIGABYTE,X870E,GIGABYTE X870E AORUS MASTER,20490,motherboard_gigabyte_x870e_aorus_master
+MotherBoard,GIGABYTE,X870E,GIGABYTE X870E AORUS MASTER X3D ICE,20990,motherboard_gigabyte_x870e_aorus_master_x3d_ice
+MotherBoard,GIGABYTE,X870,GIGABYTE X870 AORUS TACHYON ICE,20990,motherboard_gigabyte_x870_aorus_tachyon_ice
+MotherBoard,MSI,X870,MSI X870I EDGE TI EVO WIFI,12990,motherboard_msi_x870i_edge_ti_evo_wifi
+MotherBoard,MSI,X870,MSI PRO X870-P WIFI,7590,motherboard_msi_pro_x870_p_wifi
+MotherBoard,MSI,X870E,MSI PRO X870E-S EVO WIFI,8090,motherboard_msi_pro_x870e_s_evo_wifi
+MotherBoard,MSI,X870E,MSI PRO X870E-P WIFI,8490,motherboard_msi_pro_x870e_p_wifi
+MotherBoard,MSI,X870,MSI X870 GAMING PLUS WIFI,8690,motherboard_msi_x870_gaming_plus_wifi
+MotherBoard,MSI,X870E,MSI X870E GAMING PLUS WIFI,8990,motherboard_msi_x870e_gaming_plus_wifi
+MotherBoard,MSI,X870E,MSI MAG X870E TOMAHAWK WIFI,11490,motherboard_msi_mag_x870e_tomahawk_wifi
+MotherBoard,MSI,X870E,MSI MAG X870E TOMAHAWK MAX WIFI PZ,11990,motherboard_msi_mag_x870e_tomahawk_max_wifi_pz
+MotherBoard,MSI,X870E,MSI MPG X870E EDGE TI WIFI,11990,motherboard_msi_mpg_x870e_edge_ti_wifi
+MotherBoard,MSI,X870E,MSI MPG X870E CARBON WIFI,14990,motherboard_msi_mpg_x870e_carbon_wifi
+MotherBoard,MSI,X870E,MSI MEG X870E GODLIKE MAX,38990,motherboard_msi_meg_x870e_godlike_max
+MotherBoard,ASRock,X870,ASRock X870 Pro RS,5790,motherboard_asrock_x870_pro_rs
+MotherBoard,ASRock,X870,ASRock X870 Pro RS WiFi,5990,motherboard_asrock_x870_pro_rs_wifi
+MotherBoard,ASRock,X870,ASRock X870 Steel Legend WiFi,6990,motherboard_asrock_x870_steel_legend_wifi
+MotherBoard,ASRock,X870,ASRock X870 Challenger WiFi White,7190,motherboard_asrock_x870_challenger_wifi_white
+MotherBoard,ASRock,X870E,ASRock X870E Challenger WiFi White,9490,motherboard_asrock_x870e_challenger_wifi_white
+MotherBoard,ASRock,X870,ASRock X870 Nova WiFi,9990,motherboard_asrock_x870_nova_wifi
+MotherBoard,ASRock,X870,ASRock X870 Taichi Creator,11990,motherboard_asrock_x870_taichi_creator
+MotherBoard,ASRock,X870E,ASRock X870E Taichi,14990,motherboard_asrock_x870e_taichi
+MotherBoard,ASRock,X870E,ASRock X870E Taichi OCF,18990,motherboard_asrock_x870e_taichi_ocf
+GPU,Acer,ARC B570,Acer Nitro Intel ARC B570 OC 10GB,7690,gpu_acer_nitro_intel_arc_b570_oc_10gb
+GPU,Acer,ARC B580,Acer Nitro ARC B580 OC 12GB,8690,gpu_acer_nitro_arc_b580_oc_12gb
+GPU,Acer,ARC B580,Acer Nitro ARC B580 OC 12GB White,8990,gpu_acer_nitro_arc_b580_oc_12gb_white
+GPU,ASRock,ARC B580,ASRock ARC B580 Challenger 12G OC,8990,gpu_asrock_arc_b580_challenger_12g_oc
+GPU,ASRock,ARC B580,ASRock ARC B580 Steel Legend 12G OC,9990,gpu_asrock_arc_b580_steel_legend_12g_oc
+GPU,ASUS,RTX3050,ASUS DUAL-RTX3050-O6G,7990,gpu_asus_dual_rtx3050_o6g
+GPU,GIGABYTE,RTX3050,GIGABYTE RTX3050 OC Low Profile 6G,7990,gpu_gigabyte_rtx3050_oc_low_profile_6g
+GPU,GIGABYTE,RTX3050,GIGABYTE RTX3050 WINDFORCE OC V2 6G,7990,gpu_gigabyte_rtx3050_windforce_oc_v2_6g
+GPU,MSI,RTX3050,MSI RTX3050 LP 6G OC,7990,gpu_msi_rtx3050_lp_6g_oc
+GPU,MSI,RTX3050,MSI RTX3050 VENTUS 2X E 6G OC,7990,gpu_msi_rtx3050_ventus_2x_e_6g_oc
+GPU,MSI,RTX3050,MSI RTX3050 GAMING X 6G,8190,gpu_msi_rtx3050_gaming_x_6g
+GPU,ZOTAC,RTX3050,ZOTAC RTX3050 6GB GDDR6 Solo,7490,gpu_zotac_rtx3050_6gb_gddr6_solo
+GPU,ZOTAC,RTX3050,ZOTAC RTX3050 6GB GDDR6 LP,7590,gpu_zotac_rtx3050_6gb_gddr6_lp
+GPU,ZOTAC,RTX3050,ZOTAC RTX3050 6GB GDDR6 Twin Edge OC,7890,gpu_zotac_rtx3050_6gb_gddr6_twin_edge_oc
+GPU,INNO3D,RTX3050,INNO3D RTX3050 6GB TWIN X2 V2,6988,gpu_inno3d_rtx3050_6gb_twin_x2_v2
+GPU,ZOTAC,RTX3050,ZOTAC RTX3050 ECO SOLO,8290,gpu_zotac_rtx3050_eco_solo
+GPU,INNO3D,RTX3050,INNO3D RTX3050 TWIN X2,7988,gpu_inno3d_rtx3050_twin_x2
+GPU,ASUS,RTX5050,ASUS DUAL-RTX5050-O8G,10990,gpu_asus_dual_rtx5050_o8g
+GPU,ASUS,RTX5050,ASUS PRIME-RTX5050-O8G,11590,gpu_asus_prime_rtx5050_o8g
+GPU,GIGABYTE,RTX5050,GIGABYTE RTX5050 WINDFORCE OC 8G,10990,gpu_gigabyte_rtx5050_windforce_oc_8g
+GPU,GIGABYTE,RTX5050,GIGABYTE RTX5050 OC Low Profile 8G,10990,gpu_gigabyte_rtx5050_oc_low_profile_8g
+GPU,GIGABYTE,RTX5050,GIGABYTE RTX5050 GAMING OC 8G,11490,gpu_gigabyte_rtx5050_gaming_oc_8g
+GPU,MSI,RTX5050,MSI RTX5050 8G INSPIRE ITX OC,9990,gpu_msi_rtx5050_8g_inspire_itx_oc
+GPU,MSI,RTX5050,MSI RTX5050 8G SHADOW 2X OC,10590,gpu_msi_rtx5050_8g_shadow_2x_oc
+GPU,MSI,RTX5050,MSI RTX5050 8G VENTUS 2X OC,10990,gpu_msi_rtx5050_8g_ventus_2x_oc
+GPU,MSI,RTX5050,MSI RTX5050 8G GAMING OC,11590,gpu_msi_rtx5050_8g_gaming_oc
+GPU,ZOTAC,RTX5050,ZOTAC RTX5050 SOLO,9990,gpu_zotac_rtx5050_solo
+GPU,ZOTAC,RTX5050,ZOTAC RTX5050 Twin Edge OC,10490,gpu_zotac_rtx5050_twin_edge_oc
+GPU,ZOTAC,RTX5050,ZOTAC RTX5050 Twin Edge OC White Edition,10990,gpu_zotac_rtx5050_twin_edge_oc_white_edition
+GPU,INNO3D,RTX5050,INNO3D RTX5050 8GB TWIN X2,9988,gpu_inno3d_rtx5050_8gb_twin_x2
+GPU,ASUS,RTX5060,ASUS DUAL-RTX5060-O8G,12990,gpu_asus_dual_rtx5060_o8g
+GPU,ASUS,RTX5060,ASUS DUAL-RTX5060-O8G-WHITE,13590,gpu_asus_dual_rtx5060_o8g_white
+GPU,ASUS,RTX5060,ASUS PRIME-RTX5060-O8G,13590,gpu_asus_prime_rtx5060_o8g
+GPU,ASUS,RTX5060,ASUS ATS-RTX5060-O8G,13590,gpu_asus_ats_rtx5060_o8g
+GPU,GIGABYTE,RTX5060,GIGABYTE RTX5060 WINDFORCE OC 8G,12990,gpu_gigabyte_rtx5060_windforce_oc_8g
+GPU,GIGABYTE,RTX5060,GIGABYTE RTX5060 WINDFORCE MAX OC 8G,12990,gpu_gigabyte_rtx5060_windforce_max_oc_8g
+GPU,GIGABYTE,RTX5060,GIGABYTE RTX5060 OC Low Profile 8G,11990,gpu_gigabyte_rtx5060_oc_low_profile_8g
+GPU,GIGABYTE,RTX5060,GIGABYTE RTX5060 EAGLE OC 8G,13490,gpu_gigabyte_rtx5060_eagle_oc_8g
+GPU,GIGABYTE,RTX5060,GIGABYTE RTX5060 EAGLE MAX OC 8G,13490,gpu_gigabyte_rtx5060_eagle_max_oc_8g
+GPU,GIGABYTE,RTX5060,GIGABYTE RTX5060 EAGLE OC ICE 8G,13990,gpu_gigabyte_rtx5060_eagle_oc_ice_8g
+GPU,GIGABYTE,RTX5060,GIGABYTE RTX5060 GAMING OC 8G,14490,gpu_gigabyte_rtx5060_gaming_oc_8g
+GPU,GIGABYTE,RTX5060,GIGABYTE RTX5060 AERO OC 8G,14990,gpu_gigabyte_rtx5060_aero_oc_8g
+GPU,GIGABYTE,RTX5060,GIGABYTE AORUS RTX5060 ELITE 8G,15990,gpu_gigabyte_aorus_rtx5060_elite_8g
+GPU,MSI,RTX5060,MSI RTX5060 8G VENTUS 2X OC,12390,gpu_msi_rtx5060_8g_ventus_2x_oc
+GPU,MSI,RTX5060,MSI RTX5060 8G VENTUS 2X OC WHITE,12890,gpu_msi_rtx5060_8g_ventus_2x_oc_white
+GPU,MSI,RTX5060,MSI RTX5060 8G CYCLONE OC,12590,gpu_msi_rtx5060_8g_cyclone_oc
+GPU,MSI,RTX5060,MSI RTX5060 8G VENTUS 3X OC,13590,gpu_msi_rtx5060_8g_ventus_3x_oc
+GPU,MSI,RTX5060,MSI RTX5060 8G GAMING TRIO OC,14590,gpu_msi_rtx5060_8g_gaming_trio_oc
+GPU,MSI,RTX5060,MSI RTX5060 8G GAMING TRIO OC WHITE,14990,gpu_msi_rtx5060_8g_gaming_trio_oc_white
+GPU,ZOTAC,RTX5060,ZOTAC RTX5060 8GB  OC,12490,gpu_zotac_rtx5060_8gb_oc
+GPU,ZOTAC,RTX5060,ZOTAC RTX5060 SOLO,12490,gpu_zotac_rtx5060_solo
+GPU,ZOTAC,RTX5060,ZOTAC RTX5060 Twin Edge OC,12990,gpu_zotac_rtx5060_twin_edge_oc
+GPU,ZOTAC,RTX5060,ZOTAC RTX5060 Twin Edge OC White Edition,13490,gpu_zotac_rtx5060_twin_edge_oc_white_edition
+GPU,ZOTAC,RTX5060,ZOTAC RTX5060 Low Profile,13490,gpu_zotac_rtx5060_low_profile
+GPU,ZOTAC,RTX5060,ZOTAC RTX5060 AMP,13490,gpu_zotac_rtx5060_amp
+GPU,INNO3D,RTX5060,INNO3D RTX5060 8GB TWIN X2,11988,gpu_inno3d_rtx5060_8gb_twin_x2
+GPU,INNO3D,RTX5060,INNO3D RTX5060 8GB TWIN X2 OC WHITE,12488,gpu_inno3d_rtx5060_8gb_twin_x2_oc_white
+GPU,INNO3D,RTX5060,INNO3D RTX5060 X3 LOW PROFILE,12488,gpu_inno3d_rtx5060_x3_low_profile
+GPU,ASUS,RTX5060,ASUS DUAL-RTX5060TI-O8G,15590,gpu_asus_dual_rtx5060ti_o8g
+GPU,ASUS,RTX5060,ASUS DUAL-RTX5060TI-O8G-WHITE,16590,gpu_asus_dual_rtx5060ti_o8g_white
+GPU,ASUS,RTX5060,ASUS PRIME-RTX5060TI-8G,16990,gpu_asus_prime_rtx5060ti_8g
+GPU,ASUS,RTX5060,ASUS PRIME-RTX5060TI-O8G,17990,gpu_asus_prime_rtx5060ti_o8g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti WINDFORCE 8G,15490,gpu_gigabyte_rtx5060ti_windforce_8g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti WINDFORCE OC 8G,15990,gpu_gigabyte_rtx5060ti_windforce_oc_8g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti WINDFORCE MAX OC 8G,15990,gpu_gigabyte_rtx5060ti_windforce_max_oc_8g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti EAGLE OC 8G,16490,gpu_gigabyte_rtx5060ti_eagle_oc_8g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti EAGLE OC ICE 8G,16990,gpu_gigabyte_rtx5060ti_eagle_oc_ice_8g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti EAGLE MAX OC 8G,16490,gpu_gigabyte_rtx5060ti_eagle_max_oc_8g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti GAMING OC 8G,17490,gpu_gigabyte_rtx5060ti_gaming_oc_8g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti AERO OC 8G,17990,gpu_gigabyte_rtx5060ti_aero_oc_8g
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 8G CYCLONE OC,15590,gpu_msi_rtx5060ti_8g_cyclone_oc
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 8G SHADOW 2X OC PLUS,15590,gpu_msi_rtx5060ti_8g_shadow_2x_oc_plus
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 8G VENTUS 2X PLUS,14590,gpu_msi_rtx5060ti_8g_ventus_2x_plus
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 8G VENTUS 2X OC PLUS,14590,gpu_msi_rtx5060ti_8g_ventus_2x_oc_plus
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 8G VENTUS 2X OC WHITE PLUS,16590,gpu_msi_rtx5060ti_8g_ventus_2x_oc_white_plus
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 8G VENTUS 3X OC,16590,gpu_msi_rtx5060ti_8g_ventus_3x_oc
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 8G GAMING TRIO OC,17590,gpu_msi_rtx5060ti_8g_gaming_trio_oc
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 8G GAMING TRIO OC WHITE,17990,gpu_msi_rtx5060ti_8g_gaming_trio_oc_white
+GPU,ZOTAC,RTX5060Ti,ZOTAC RTX5060Ti 8GB  OC,15490,gpu_zotac_rtx5060ti_8gb_oc
+GPU,ZOTAC,RTX5060Ti,ZOTAC RTX5060Ti 8GB Twin Edge OC,15990,gpu_zotac_rtx5060ti_8gb_twin_edge_oc
+GPU,ZOTAC,RTX5060Ti,ZOTAC RTX5060Ti 8GB AMP,16990,gpu_zotac_rtx5060ti_8gb_amp
+GPU,INNO3D,RTX5060Ti,INNO3D RTX5060Ti 8GB TWIN X2,14888,gpu_inno3d_rtx5060ti_8gb_twin_x2
+GPU,INNO3D,RTX5060Ti,INNO3D RTX5060Ti 8GB TWIN X2 OC WHITE,15888,gpu_inno3d_rtx5060ti_8gb_twin_x2_oc_white
+GPU,ASUS,RTX5060,ASUS DUAL-RTX5060TI-O16G,19490,gpu_asus_dual_rtx5060ti_o16g
+GPU,ASUS,RTX5060,ASUS DUAL-RTX5060TI-O16G-WHITE,19990,gpu_asus_dual_rtx5060ti_o16g_white
+GPU,ASUS,RTX5060,ASUS PRIME-RTX5060TI-16G,20490,gpu_asus_prime_rtx5060ti_16g
+GPU,ASUS,RTX5060,ASUS PRIME-RTX5060TI-O16G,20990,gpu_asus_prime_rtx5060ti_o16g
+GPU,ASUS,RTX5060,ASUS TUF-RTX5060TI-O16G-GAMING,22990,gpu_asus_tuf_rtx5060ti_o16g_gaming
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti EAGLE OC ICE 16G,20490,gpu_gigabyte_rtx5060ti_eagle_oc_ice_16g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti GAMING OC 16G,20990,gpu_gigabyte_rtx5060ti_gaming_oc_16g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE RTX5060Ti AERO OC 16G,21990,gpu_gigabyte_rtx5060ti_aero_oc_16g
+GPU,GIGABYTE,RTX5060Ti,GIGABYTE AORUS RTX5060Ti ELITE 16G,22490,gpu_gigabyte_aorus_rtx5060ti_elite_16g
+GPU,GIGABYTE,RTX5060,GIGABYTE AORUS RTX5060 Ti AI BOX,24990,gpu_gigabyte_aorus_rtx5060_ti_ai_box
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 16G CYCLONE OC,19490,gpu_msi_rtx5060ti_16g_cyclone_oc
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 16G SHADOW 2X OC PLUS,19490,gpu_msi_rtx5060ti_16g_shadow_2x_oc_plus
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 16G VENTUS 2X OC PLUS,19990,gpu_msi_rtx5060ti_16g_ventus_2x_oc_plus
+GPU,MSI,RTX5060Ti,MSI RTX5060Ti 16G VENTUS 3X OC,20490,gpu_msi_rtx5060ti_16g_ventus_3x_oc
+GPU,ZOTAC,RTX5060Ti,ZOTAC RTX5060Ti 16GB Twin Edge,18490,gpu_zotac_rtx5060ti_16gb_twin_edge
+GPU,ZOTAC,RTX5060Ti,ZOTAC RTX5060Ti 16GB Twin Edge OC,18990,gpu_zotac_rtx5060ti_16gb_twin_edge_oc
+GPU,INNO3D,RTX5060Ti,INNO3D RTX5060Ti 16GB TWIN X2,17888,gpu_inno3d_rtx5060ti_16gb_twin_x2
+GPU,INNO3D,RTX5060Ti,INNO3D RTX5060Ti 16GB TWIN X2 OC WHITE,18888,gpu_inno3d_rtx5060ti_16gb_twin_x2_oc_white
+GPU,ASUS,RTX5070,ASUS DUAL-RTX5070-O12G,22990,gpu_asus_dual_rtx5070_o12g
+GPU,ASUS,RTX5070,ASUS PRIME-RTX5070-12G,23990,gpu_asus_prime_rtx5070_12g
+GPU,ASUS,RTX5070,ASUS PRIME-RTX5070-O12G,24990,gpu_asus_prime_rtx5070_o12g
+GPU,ASUS,RTX5070,ASUS PRIME-RTX5070-O12G-WHITE,25890,gpu_asus_prime_rtx5070_o12g_white
+GPU,GIGABYTE,RTX5070,GIGABYTE RTX5070 WINDFORCE OC SFF 12G,22990,gpu_gigabyte_rtx5070_windforce_oc_sff_12g
+GPU,GIGABYTE,RTX5070,GIGABYTE RTX5070 EAGLE OC SFF 12G,23990,gpu_gigabyte_rtx5070_eagle_oc_sff_12g
+GPU,GIGABYTE,RTX5070,GIGABYTE RTX5070 EAGLE OC ICE SFF 12G,24490,gpu_gigabyte_rtx5070_eagle_oc_ice_sff_12g
+GPU,GIGABYTE,RTX5070,GIGABYTE RTX5070 GAMING OC 12G,25990,gpu_gigabyte_rtx5070_gaming_oc_12g
+GPU,GIGABYTE,RTX5070,GIGABYTE RTX5070 AERO OC 12G,26990,gpu_gigabyte_rtx5070_aero_oc_12g
+GPU,GIGABYTE,RTX5070,GIGABYTE AORUS RTX5070 MASTER 12G,27990,gpu_gigabyte_aorus_rtx5070_master_12g
+GPU,MSI,RTX5070,MSI RTX5070 12G SHADOW 2X OC,22590,gpu_msi_rtx5070_12g_shadow_2x_oc
+GPU,MSI,RTX5070,MSI RTX5070 12G VENTUS 2X OC,21890,gpu_msi_rtx5070_12g_ventus_2x_oc
+GPU,MSI,RTX5070,MSI RTX5070 12G VENTUS 2X OC WHITE,22900,gpu_msi_rtx5070_12g_ventus_2x_oc_white
+GPU,MSI,RTX5070,MSI RTX5070 12G INSPIRE 3X OC,23590,gpu_msi_rtx5070_12g_inspire_3x_oc
+GPU,MSI,RTX5070,MSI RTX5070 12G VENTUS 3X OC,23990,gpu_msi_rtx5070_12g_ventus_3x_oc
+GPU,MSI,RTX5070,MSI RTX5070 12G GAMING TRIO OC,25590,gpu_msi_rtx5070_12g_gaming_trio_oc
+GPU,MSI,RTX5070,MSI RTX5070 12G GAMING TRIO OC WHITE,25990,gpu_msi_rtx5070_12g_gaming_trio_oc_white
+GPU,MSI,RTX5070,MSI RTX5070 12G World of Warcraft MIDNIGHT VOID EDITION OC,25590,gpu_msi_rtx5070_12g_world_of_warcraft_midnight_void_edition_oc
+GPU,MSI,RTX5070,MSI RTX5070 12G World of Warcraft MIDNIGHT LIGHT EDITION OC,25590,gpu_msi_rtx5070_12g_world_of_warcraft_midnight_light_edition_oc
+GPU,ZOTAC,RTX5070,ZOTAC RTX5070 Twin Edge,22490,gpu_zotac_rtx5070_twin_edge
+GPU,ZOTAC,RTX5070,ZOTAC RTX5070 Twin Edge OC,22990,gpu_zotac_rtx5070_twin_edge_oc
+GPU,ZOTAC,RTX5070,ZOTAC RTX5070 SOLID,23990,gpu_zotac_rtx5070_solid
+GPU,ZOTAC,RTX5070,ZOTAC RTX5070 SOLID OC,24990,gpu_zotac_rtx5070_solid_oc
+GPU,ZOTAC,RTX5070,ZOTAC RTX5070 AMP White Edition,25490,gpu_zotac_rtx5070_amp_white_edition
+GPU,INNO3D,RTX5070,INNO3D RTX5070 TWIN X2,21888,gpu_inno3d_rtx5070_twin_x2
+GPU,INNO3D,RTX5070,INNO3D RTX5070 TWIN X2 OC WHITE,22888,gpu_inno3d_rtx5070_twin_x2_oc_white
+GPU,INNO3D,RTX5070,INNO3D RTX5070 iChill X3,23888,gpu_inno3d_rtx5070_ichill_x3
+GPU,ASUS,RTX5070,ASUS PRIME-RTX5070TI-16G,32990,gpu_asus_prime_rtx5070ti_16g
+GPU,ASUS,RTX5070,ASUS PRIME-RTX5070TI-O16G,34990,gpu_asus_prime_rtx5070ti_o16g
+GPU,ASUS,RTX5070,ASUS TUF-RTX5070TI-O16G-GAMING,36890,gpu_asus_tuf_rtx5070ti_o16g_gaming
+GPU,ASUS,RTX5070,ASUS ROG-STRIX-RTX5070TI-O16G-GAMING,39990,gpu_asus_rog_strix_rtx5070ti_o16g_gaming
+GPU,GIGABYTE,RTX5070Ti,GIGABYTE RTX5070Ti WINDFORCE OC SFF 16G,32990,gpu_gigabyte_rtx5070ti_windforce_oc_sff_16g
+GPU,GIGABYTE,RTX5070Ti,GIGABYTE RTX5070Ti EAGLE OC SFF 16G,34990,gpu_gigabyte_rtx5070ti_eagle_oc_sff_16g
+GPU,GIGABYTE,RTX5070Ti,GIGABYTE RTX5070Ti EAGLE OC ICE SFF 16G,35990,gpu_gigabyte_rtx5070ti_eagle_oc_ice_sff_16g
+GPU,GIGABYTE,RTX5070Ti,GIGABYTE RTX5070Ti GAMING OC 16G,36990,gpu_gigabyte_rtx5070ti_gaming_oc_16g
+GPU,GIGABYTE,RTX5070Ti,GIGABYTE RTX5070Ti AERO OC 16G,37990,gpu_gigabyte_rtx5070ti_aero_oc_16g
+GPU,GIGABYTE,RTX5070Ti,GIGABYTE AORUS RTX5070Ti MASTER 16G,39990,gpu_gigabyte_aorus_rtx5070ti_master_16g
+GPU,MSI,RTX5070Ti,MSI RTX5070Ti 16G SHADOW 3X OC,31990,gpu_msi_rtx5070ti_16g_shadow_3x_oc
+GPU,MSI,RTX5070Ti,MSI RTX5070Ti 16G VENTUS 3X OC,31990,gpu_msi_rtx5070ti_16g_ventus_3x_oc
+GPU,ZOTAC,RTX5070Ti,ZOTAC RTX5070Ti SOLID SFF OC,32990,gpu_zotac_rtx5070ti_solid_sff_oc
+GPU,ZOTAC,RTX5070Ti,ZOTAC RTX5070Ti 16GB  OC,34990,gpu_zotac_rtx5070ti_16gb_oc
+GPU,ZOTAC,RTX5070Ti,ZOTAC RTX5070Ti SOLID CORE OC White Edition,35990,gpu_zotac_rtx5070ti_solid_core_oc_white_edition
+GPU,INNO3D,RTX5070,INNO3D RTX5070TI X3,31888,gpu_inno3d_rtx5070ti_x3
+GPU,INNO3D,RTX5070,INNO3D RTX5070TI X3 OC WHITE,32888,gpu_inno3d_rtx5070ti_x3_oc_white
+GPU,INNO3D,RTX5070Ti,INNO3D RTX5070Ti iChill X3,33888,gpu_inno3d_rtx5070ti_ichill_x3
+GPU,ASUS,RTX5080,ASUS PRIME-RTX5080-16G,44990,gpu_asus_prime_rtx5080_16g
+GPU,ASUS,RTX5080,ASUS PRIME-RTX5080-O16G,47990,gpu_asus_prime_rtx5080_o16g
+GPU,ASUS,RTX5080,ASUS TUF-RTX5080-O16G-GAMING,52990,gpu_asus_tuf_rtx5080_o16g_gaming
+GPU,ASUS,RTX5080,ASUS PROART-RTX5080-O16G,56990,gpu_asus_proart_rtx5080_o16g
+GPU,ASUS,RTX5080,ASUS RTX5080-O16G-NOCTUA,57990,gpu_asus_rtx5080_o16g_noctua
+GPU,ASUS,RTX5080,ASUS ROG-ASTRAL-RTX5080-O16G-GAMING,58990,gpu_asus_rog_astral_rtx5080_o16g_gaming
+GPU,ASUS,RTX5080,ASUS ROG-ASTRAL-RTX5080-O16G-WHITE,59990,gpu_asus_rog_astral_rtx5080_o16g_white
+GPU,GIGABYTE,RTX5080,GIGABYTE RTX5080 WINDFORCE OC SFF 16G,45990,gpu_gigabyte_rtx5080_windforce_oc_sff_16g
+GPU,GIGABYTE,RTX5080,GIGABYTE RTX5080 GAMING OC 16G,49990,gpu_gigabyte_rtx5080_gaming_oc_16g
+GPU,GIGABYTE,RTX5080,GIGABYTE RTX5080 AERO OC SFF 16G,50990,gpu_gigabyte_rtx5080_aero_oc_sff_16g
+GPU,GIGABYTE,RTX5080,GIGABYTE AORUS RTX5080 MASTER 16G,55990,gpu_gigabyte_aorus_rtx5080_master_16g
+GPU,GIGABYTE,RTX5080,GIGABYTE AORUS RTX5080 MASTER ICE 16G,56990,gpu_gigabyte_aorus_rtx5080_master_ice_16g
+GPU,MSI,RTX5080,MSI RTX5080 16G VENTUS 3X OC,44990,gpu_msi_rtx5080_16g_ventus_3x_oc
+GPU,MSI,RTX5080,MSI RTX5080 16G VENTUS 3X OC WHITE,45990,gpu_msi_rtx5080_16g_ventus_3x_oc_white
+GPU,MSI,RTX5080,MSI RTX5080 16G INSPIRE 3X OC,44990,gpu_msi_rtx5080_16g_inspire_3x_oc
+GPU,MSI,RTX5080,MSI RTX5080 16G GAMING TRIO OC,47990,gpu_msi_rtx5080_16g_gaming_trio_oc
+GPU,MSI,RTX5080,MSI RTX5080 16G GAMING TRIO OC WHITE,48990,gpu_msi_rtx5080_16g_gaming_trio_oc_white
+GPU,MSI,RTX5080,MSI RTX5080 16G SUPRIM LIQUID SOC,56990,gpu_msi_rtx5080_16g_suprim_liquid_soc
+GPU,ZOTAC,RTX5080,ZOTAC RTX5080 SOLID OC White Edition,46990,gpu_zotac_rtx5080_solid_oc_white_edition
+GPU,ZOTAC,RTX5080,ZOTAC RTX5080 SOLID CORE OC,45990,gpu_zotac_rtx5080_solid_core_oc
+GPU,INNO3D,RTX5080,INNO3D RTX5080 X3,44888,gpu_inno3d_rtx5080_x3
+GPU,INNO3D,RTX5080,INNO3D RTX5080 X3 OC,44988,gpu_inno3d_rtx5080_x3_oc
+GPU,INNO3D,RTX5080,INNO3D RTX5080 X3 OC WHITE,45988,gpu_inno3d_rtx5080_x3_oc_white
+GPU,INNO3D,RTX5080,INNO3D RTX5080 iChill X3 V2,46888,gpu_inno3d_rtx5080_ichill_x3_v2
+GPU,ASUS,RTX5090,ASUS ROG-ASTRAL-RTX5090-O32G-GAMING,115990,gpu_asus_rog_astral_rtx5090_o32g_gaming
+GPU,ASUS,RTX5090,ASUS ROG-ASTRAL-RTX5090-O32G-BTF-GAMING,116990,gpu_asus_rog_astral_rtx5090_o32g_btf_gaming
+GPU,ASUS,RTX5090,ASUS ROG-ASTRAL-RTX5090-32G-WHITE,116990,gpu_asus_rog_astral_rtx5090_32g_white
+GPU,ASUS,RTX5090,ASUS ROG-ASTRAL-RTX5090-O32G-WHITE,117990,gpu_asus_rog_astral_rtx5090_o32g_white
+GPU,ASUS,RTX5090,ASUS ROG-ASTRAL-LC-RTX5090-O32G-GAMING,119990,gpu_asus_rog_astral_lc_rtx5090_o32g_gaming
+GPU,GIGABYTE,RTX5090,GIGABYTE AORUS RTX5090 MASTER ICE 32G,104990,gpu_gigabyte_aorus_rtx5090_master_ice_32g
+GPU,GIGABYTE,RTX5090,GIGABYTE AORUS RTX5090 STEALTH ICE 32G,104990,gpu_gigabyte_aorus_rtx5090_stealth_ice_32g
+GPU,MSI,RTX5090,MSI RTX5090 32G SUPRIM LIQUID SOC,107990,gpu_msi_rtx5090_32g_suprim_liquid_soc
+GPU,MSI,RTX5090,MSI RTX5090 32G LIGHTNING Z,165000,gpu_msi_rtx5090_32g_lightning_z
+GPU,SAPPHIRE,RX7650GRE,SAPPHIRE  PULSE RX7650GRE GAMING 8GB,9590,gpu_sapphire_pulse_rx7650gre_gaming_8gb
+GPU,SAPPHIRE,RX7650GRE,SAPPHIRE  PURE RX7650GRE GAMING 8GB,9690,gpu_sapphire_pure_rx7650gre_gaming_8gb
+GPU,ASUS,RX9060XT,ASUS PRIME-RX9060XT-O8G,11990,gpu_asus_prime_rx9060xt_o8g
+GPU,GIGABYTE,RX9060XT,GIGABYTE RX9060XT GAMING OC 8G,11490,gpu_gigabyte_rx9060xt_gaming_oc_8g
+GPU,ASRock,RX9060XT,ASRock RX9060XT Challenger 8GB OC,11990,gpu_asrock_rx9060xt_challenger_8gb_oc
+GPU,SAPPHIRE,RX9060XT,SAPPHIRE  PULSE RX9060XT GAMING OC 8GB,10990,gpu_sapphire_pulse_rx9060xt_gaming_oc_8gb
+GPU,PowerColor,RX9060XT,PowerColor RX9060XT 8G-L/OC Hellhound,11490,gpu_powercolor_rx9060xt_8g_l_oc_hellhound
+GPU,ASUS,RX9060XT,ASUS DUAL-RX9060XT-16G,15990,gpu_asus_dual_rx9060xt_16g
+GPU,ASUS,RX9060XT,ASUS DUAL-RX9060XT-16G-WHITE,16990,gpu_asus_dual_rx9060xt_16g_white
+GPU,ASUS,RX9060XT,ASUS PRIME-RX9060XT-O16G,16990,gpu_asus_prime_rx9060xt_o16g
+GPU,GIGABYTE,RX9060XT,GIGABYTE RX9060XT GAMING 16G,15890,gpu_gigabyte_rx9060xt_gaming_16g
+GPU,GIGABYTE,RX9060XT,GIGABYTE RX9060XT GAMING OC 16G,16890,gpu_gigabyte_rx9060xt_gaming_oc_16g
+GPU,GIGABYTE,RX9060XT,GIGABYTE RX9060XT GAMING OC ICE 16G,17390,gpu_gigabyte_rx9060xt_gaming_oc_ice_16g
+GPU,ASRock,RX9060XT,ASRock RX9060XT Challenger 16GB OC,16790,gpu_asrock_rx9060xt_challenger_16gb_oc
+GPU,ASRock,RX9060XT,ASRock RX9060XT Steel Legend 16GB OC,15490,gpu_asrock_rx9060xt_steel_legend_16gb_oc
+GPU,Acer,RX9060XT,ACER Nitro RX9060XT 16G OC White,15990,gpu_acer_nitro_rx9060xt_16g_oc_white
+GPU,SAPPHIRE,RX9060XT,SAPPHIRE  PULSE RX9060XT GAMING OC 16GB,15990,gpu_sapphire_pulse_rx9060xt_gaming_oc_16gb
+GPU,SAPPHIRE,RX9060XT,SAPPHIRE  PURE RX9060XT GAMING OC 16GB,16490,gpu_sapphire_pure_rx9060xt_gaming_oc_16gb
+GPU,SAPPHIRE,RX9060XT,SAPPHIRE  NITRO+ RX9060XT GAMING OC 16GB,16990,gpu_sapphire_nitro_rx9060xt_gaming_oc_16gb
+GPU,PowerColor,RX9060XT,PowerColor RX9060XT 16G-A Reaper,14590,gpu_powercolor_rx9060xt_16g_a_reaper
+GPU,PowerColor,RX9060XT,PowerColor RX9060XT 16G-L/OC Hellhound,15990,gpu_powercolor_rx9060xt_16g_l_oc_hellhound
+GPU,PowerColor,RX9060XT,PowerColor RX9060XT 16G-L/OC/WHITE Hellhound,16490,gpu_powercolor_rx9060xt_16g_l_oc_white_hellhound
+GPU,ASRock,RX9070GRE,ASRock RX9070GRE Steel Legend Dark 12GB OC,21290,gpu_asrock_rx9070gre_steel_legend_dark_12gb_oc
+GPU,SAPPHIRE,RX9070GRE,SAPPHIRE  PULSE RX9070GRE GAMING 12GB,19990,gpu_sapphire_pulse_rx9070gre_gaming_12gb
+GPU,SAPPHIRE,RX9070GRE,SAPPHIRE  PURE RX9070GRE GAMING OC 12GB,20590,gpu_sapphire_pure_rx9070gre_gaming_oc_12gb
+GPU,ASUS,RX9070,ASUS PRIME-RX9070-O16G-EVO,24990,gpu_asus_prime_rx9070_o16g_evo
+GPU,GIGABYTE,RX9070,GIGABYTE RX9070 GAMING OC 16G,24890,gpu_gigabyte_rx9070_gaming_oc_16g
+GPU,ASRock,RX9070,ASRock RX9070 Challenger 16GB,24590,gpu_asrock_rx9070_challenger_16gb
+GPU,ASUS,RX9070XT,ASUS PRIME-RX9070XT-O16G,26990,gpu_asus_prime_rx9070xt_o16g
+GPU,ASUS,RX9070XT,ASUS PRIME-RX9070XT-O16G-WHITE,27990,gpu_asus_prime_rx9070xt_o16g_white
+GPU,ASUS,RX9070XT,ASUS TUF-RX9070XT-O16G-GAMING,29990,gpu_asus_tuf_rx9070xt_o16g_gaming
+GPU,ASUS,RX9070XT,ASUS TUF-RX9070XT-O16G-COD-BO7,35990,gpu_asus_tuf_rx9070xt_o16g_cod_bo7
+GPU,GIGABYTE,RX9070XT,GIGABYTE RX9070XT GAMING 16G,26890,gpu_gigabyte_rx9070xt_gaming_16g
+GPU,GIGABYTE,RX9070XT,GIGABYTE RX9070XT GAMING OC 16G,27890,gpu_gigabyte_rx9070xt_gaming_oc_16g
+GPU,GIGABYTE,RX9070XT,GIGABYTE RX9070XT GAMING OC ICE 16G,28890,gpu_gigabyte_rx9070xt_gaming_oc_ice_16g
+GPU,GIGABYTE,RX9070XT,GIGABYTE AORUS RX9070XT ELITE 16G,29890,gpu_gigabyte_aorus_rx9070xt_elite_16g
+GPU,ASRock,RX9070XT,ASRock RX9070XT Challenger 16GB,26590,gpu_asrock_rx9070xt_challenger_16gb
+GPU,ASRock,RX9070XT,ASRock RX9070XT Steel Legend Dark 16GB,24990,gpu_asrock_rx9070xt_steel_legend_dark_16gb
+GPU,ASRock,RX9070XT,ASRock RX9070XT Taichi 16GB OC,27590,gpu_asrock_rx9070xt_taichi_16gb_oc
+GPU,ASRock,RX9070XT,ASRock RX9070XT Taichi White 16GB OC,30690,gpu_asrock_rx9070xt_taichi_white_16gb_oc
+GPU,Acer,RX9070XT,ACER NITRO RX9070XT 16G OC,25990,gpu_acer_nitro_rx9070xt_16g_oc
+GPU,Acer,RX9070XT,ACER Predator BiFrost RX9070XT 16G OC White,26990,gpu_acer_predator_bifrost_rx9070xt_16g_oc_white
+GPU,SAPPHIRE,RX9070XT,SAPPHIRE  PULSE RX9070XT GAMING 16GB,25990,gpu_sapphire_pulse_rx9070xt_gaming_16gb
+GPU,SAPPHIRE,RX9070XT,SAPPHIRE  PURE RX9070XT GAMING OC 16GB,26990,gpu_sapphire_pure_rx9070xt_gaming_oc_16gb
+GPU,SAPPHIRE,RX9070XT,SAPPHIRE  NITRO+ RX9070XT GAMING OC 16GB,28990,gpu_sapphire_nitro_rx9070xt_gaming_oc_16gb
+GPU,SAPPHIRE,RX9070XT,SAPPHIRE  NITRO+ RX9070XT Crimson Desert,28990,gpu_sapphire_nitro_rx9070xt_crimson_desert
+GPU,SAPPHIRE,RX9070XT,SAPPHIRE  NITRO+ RX9070XT OC 16GB PhantomLink,30490,gpu_sapphire_nitro_rx9070xt_oc_16gb_phantomlink
+GPU,SAPPHIRE,RX9070XT,SAPPHIRE  NITRO+ RX9070XT OC 16GB PhantomLink Polar,30990,gpu_sapphire_nitro_rx9070xt_oc_16gb_phantomlink_polar
+GPU,PowerColor,RX9070XT,PowerColor RX9070XT 16G-A,25590,gpu_powercolor_rx9070xt_16g_a
+GPU,PowerColor,RX9070XT,PowerColor RX9070XT 16G-L/OC,26990,gpu_powercolor_rx9070xt_16g_l_oc
+GPU,PowerColor,RX9070XT,PowerColor RX9070XT 16G-L/OC/WHITE,27990,gpu_powercolor_rx9070xt_16g_l_oc_white
+GPU,PowerColor,RX9070XT,PowerColor RX9070XT 16G-L/OC/REVA,27990,gpu_powercolor_rx9070xt_16g_l_oc_reva
+GPU,PowerColor,RX9070XT,PowerColor RX9070XT 16G-E/OC,28990,gpu_powercolor_rx9070xt_16g_e_oc
