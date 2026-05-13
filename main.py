@@ -8,6 +8,7 @@ from category.cpu import get_cpu
 from category.mb import get_mb
 from category.gpu import get_gpu
 from category.ram import get_ram
+from category.ssd import get_ssd
 
 URL = "https://www.coolpc.com.tw/evaluate.php"
 HEADERS = {
@@ -93,6 +94,12 @@ def main():
     ram_results = get_ram(ram_select)
     all_results.extend(ram_results)
     print(f"共抓到 {len(ram_results)} 筆 RAM")
+
+    print("正在抓取原價屋 SSD 資料...")
+    ssd_select = find_ssd_select(soup)
+    ssd_results = get_ssd(ssd_select)
+    all_results.extend(ssd_results)
+    print(f"共抓到 {len(ssd_results)} 筆 SSD")
 
     print(f"去重前總筆數：{len(all_results)}")
     all_results = duo_source(all_results)

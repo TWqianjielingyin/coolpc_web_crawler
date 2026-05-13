@@ -14,6 +14,7 @@ BRAND_MAP = {
     "XPG": "ADATA",
 
     "佰維": "Biwin",
+    "Biwin": "Biwin",
     "Origin code": "Biwin",
 
     "宏碁": "Acer",
@@ -24,6 +25,7 @@ BRAND_MAP = {
     "科賦": "KLEVV",
 
     "金士頓": "Kingston",
+    "FURY": "Kingston",
 
     "十銓": "TeamGroup",
 
@@ -32,6 +34,7 @@ BRAND_MAP = {
     "Crucial": "Micron",
 
     "海盜船": "Corsair",
+    "Corsair": "Corsair",
 
     "芝奇": "G.SKILL",
 }
@@ -117,19 +120,8 @@ def name_wanted(text):
 def get_brand(text):
     lower_text = text.lower()
 
-    for zh_brand, en_brand in sorted(BRAND_MAP.items(), key=lambda x: len(x[0]), reverse=True):
-        if zh_brand.lower() in lower_text:
-            return en_brand
-
-    english_brands = [
-        "ADATA", "Kingston", "Micron", "Crucial", "KLEVV",
-        "TeamGroup", "G.SKILL", "Corsair", "Acer", "Biwin"
-    ]
-
-    for brand in english_brands:
-        if brand.lower() in lower_text:
-            if brand == "Crucial":
-                return "Micron"
+    for alias, brand in sorted(BRAND_MAP.items(), key=lambda x: len(x[0]), reverse=True):
+        if alias.lower() in lower_text:
             return brand
 
     return "Unknown"
