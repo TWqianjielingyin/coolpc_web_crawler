@@ -49,7 +49,7 @@ $ uv run main.py
 - 關鍵字通常會寫在各類別的 `*_INCLUDE` 清單中
 - CPU、MotherBoard、GPU 主要採用「切除不需要的描述」來取得完整型號
 - RAM、SSD 主要採用「抓取規格並重新組合」來取得完整型號
-- source_key = 型號(model) + 規格(product)
+- source_key = 類別(category) + 規格(product)
 
 ### 資料合併規則
 
