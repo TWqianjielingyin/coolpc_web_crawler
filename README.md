@@ -10,9 +10,12 @@
 
 ```shell
 on windows
+```shell
 $ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
 
 on linux / mac os
+```shell
 $ curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
