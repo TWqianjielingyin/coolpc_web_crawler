@@ -74,6 +74,7 @@ def get_brand(text):
         return brand, model, product
     return "Unknown", "Unknown", product
 def get_model(text):
+    normalized_text = re.sub(r"\s+", "", text.upper())
     models = [
         "ARC B570", "ARC B580",
         "RTX5090", "RTX5080", "RTX5070Ti", "RTX5070", "RTX5060Ti", "RTX5060", "RTX5050",
@@ -82,19 +83,30 @@ def get_model(text):
         "RX7650GRE", "RX9060XT", "RX9070GRE", "RX9070XT", "RX9070"
     ]
     for model in models:
-        if model in text:
+        normalized_model = re.sub(r"\s+", "", model.upper())
+        if normalized_model in normalized_text:
             return model
     return "Unknown"
+
+def extract_braced_product(text):
+    match = re.search(r"[{｛]([^{}｛｝]+)[}｝]", text)
+    if match:
+        return match.group(1).strip()
+    return text
+def remove_chinese(text):
+    text = re.sub(r"[\u3400-\u9fff]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
 def get_product(text):
-    name = re.split(r"\s*,?\s*\$", text)[0]
-    name = re.sub(r'^\[[^\]]*\]\s*', "", name)
-    name = re.sub(r"[\u4e00-\u9fff]+", "", name)
+    name = extract_braced_product(text)
+    name = remove_chinese(name)
+    name = re.split(r"\s*,?\s*\$", name)[0]
     name = re.sub(r"\[[^\]]*\]", " ", name)
     name = re.sub(r"/\s*\d+\s*PIN\b", "", name, flags=re.IGNORECASE)
     name = re.sub(r"\b[A-Z0-9-]*\s*\d{3,4}W\b.*$", "", name, flags=re.IGNORECASE)
     name = name.split("(")[0]
     name = name.split("【")[0]
-    name = name.strip()
+    name = re.sub(r"\s+", " ", name).strip()
     return name
 def get_price(text):
     prices = re.findall(r"\$([0-9,]+)", text)

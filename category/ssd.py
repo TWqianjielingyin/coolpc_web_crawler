@@ -56,6 +56,9 @@ BRAND_MAP = {
 
     "KLEVV": "KLEVV",
     "科賦": "KLEVV",
+
+    "Seagate": "Seagate",
+    "seagate": "Seagate",
 }
 PRODUCT_MAP = {
     "KIOXIA": [
@@ -144,6 +147,9 @@ PRODUCT_MAP = {
         ("CRAS C910", r"C910"),
         ("CRAS C930", r"C930"),
     ],
+    "Seagate": [
+        ("FireCuda 530R", r"530R"),
+    ],
 }
 
 def name_wanted(text):
@@ -154,6 +160,8 @@ def name_wanted(text):
     for keyword in SSD_INCLUDE:
         if keyword.lower() in lower_name:
             return True
+    if re.search(r"FURY\s+Renegade\s+G5", text, flags=re.IGNORECASE):
+        return True
 
     return False
 
@@ -170,9 +178,11 @@ def get_model(text):
 
     if re.search(r"GEN\s*5", upper_text) or re.search(r"PCI[-\s]*E\s*5(?:\.0)?", upper_text):
         return "Gen5"
-
     if re.search(r"GEN\s*4", upper_text) or re.search(r"PCI[-\s]*E\s*4(?:\.0)?", upper_text):
         return "Gen4"
+
+    if re.search(r"FURY\s+Renegade\s+G5", text, flags=re.IGNORECASE):
+        return "Gen5"
 
     return ""
 def get_product(brand,text):

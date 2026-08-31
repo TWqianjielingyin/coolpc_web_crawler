@@ -61,12 +61,23 @@ def get_model(text):
         if model in text:
             return model
     return "Unknown"
+
+def drop_leading_square_brackets(text):
+    if re.match(r"^\s*[\[［][^\]］]*[\]］]", text):
+        return ""
+    return text
+def extract_braced_product(text):
+    match = re.search(r"[{｛]([^{}｛｝]+)[}｝]", text)
+    if match:
+        return match.group(1).strip()
+    return text
+
 def get_product(text):
-    name = re.split(r"\s*,?\s*\$", text)[0]
-    name = re.sub(r'^\[[^\]]*\]\s*', "", name)
+    name = drop_leading_square_brackets(text)
+    name = extract_braced_product(name)
+    name = re.split(r"\s*,?\s*\$", name)[0]
     name = name.split("(")[0]
-    name = re.sub(r"[\u4e00-\u9fff]+", "", name)
-    name = name.strip()
+    name = re.sub(r"\s+", " ", name).strip()
     return name
 def get_price(text):
     prices = re.findall(r"\$([0-9,]+)", text)

@@ -40,9 +40,33 @@ def get_model(text):
         if model in text:
             return model
     return "Unknown"
+
+def extract_braced_product(text):
+    match = re.search(r"[{｛]([^{}｛｝]+)[}｝]", text)
+    if match:
+        return match.group(1).strip()
+
+    return text
+def extract_cpu_name(text):
+    patterns = [
+        r"\bAMD\s+R[3579]\s+\d{4,5}[A-Z0-9]*\b",
+        r"\bIntel\s+i[3579][-\s]?\d{4,5}[A-Z]{0,2}\b",
+        r"\bIntel\s+Core\s+Ultra\s+[3579]\s+\d{3,4}[A-Z]{0,2}\b",
+        r"\bCore\s+Ultra\s+[3579]\s+\d{3,4}[A-Z]{0,2}\b",
+    ]
+
+    for pattern in patterns:
+        match = re.search(pattern, text, flags=re.IGNORECASE)
+        if match:
+            name = re.sub(r"\s+", " ", match.group(0).replace("-", " ")).strip()
+            if name.lower().startswith("core ultra"):
+                return f"Intel {name}"
+            return name
+
+    return text
 def get_product(text):
-    name = re.split(r"\s*,?\s*\$", text)[0]
-    name = re.sub(r'^\[[^\]]*\]\s*', "", name)
+    name = extract_braced_product(text)
+    name = re.split(r"\s*,?\s*\$", name)[0]
     name = name.split("【")[0]
     rm_word = ["雙3D", "Tray盤", "MPK", "代理", "盒"]
     for word in rm_word:
@@ -96,3 +120,4 @@ def get_cpu(select):
         })
 
     return results
+
