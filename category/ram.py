@@ -259,6 +259,8 @@ def get_ram(select):
         text = option.get_text(strip=True)
         if "共有商品" in text:
             continue
+        if "開學" in text:
+            continue
         if text.startswith("↪") or text.startswith("❤"):
             continue
 

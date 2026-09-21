@@ -36,9 +36,11 @@ def replace_brand(text):
 
 def get_brand(text):
     product = text
-    if product.startswith("ASUS"):
+    if product.startswith("ASUS") or product.startswith("ROG"):
         brand = "ASUS"
         model = get_model(product)
+        if product.startswith("ROG"):
+            product = brand + " " + product
         return brand, model, product
     if product.startswith("MSI"):
         brand = "MSI"
@@ -128,6 +130,8 @@ def get_gpu(select):
     for option in options:
         text = option.get_text(strip=True)
         if "共有商品" in text:
+            continue
+        if "開學" in text:
             continue
         if text.startswith("↪") or text.startswith("❤"):
             continue
