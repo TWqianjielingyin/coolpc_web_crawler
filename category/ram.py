@@ -4,7 +4,7 @@ RAM_INCLUDE = [
     "DDR5", "DDR4", "D5", "D4"
 ]
 RAM_EXCLUDE = [
-    "DDR3", "D3", "ECC", "NB", "四根",
+    "DDR3", "D3", "ECC", "四根"
 ]
 
 BRAND_MAP = {
@@ -28,6 +28,7 @@ BRAND_MAP = {
     "FURY": "Kingston",
 
     "十銓": "TeamGroup",
+    "CREATE": "TeamGroup",
 
     "美光": "Micron",
     "Micron": "Micron",
@@ -138,7 +139,10 @@ def get_product(brand,text):
     for product_name, pattern in patterns:
         if re.search(pattern, text, flags=re.IGNORECASE):
             return product_name
-
+    return ""
+def get_nb(text):
+    if "NB" in text:
+        return "NB"
     return ""
 def get_speed(text):
     match = re.search(r"DDR\s*[45]\s*[-/]?\s*(\d{4,5})", text, flags=re.IGNORECASE)
@@ -147,7 +151,6 @@ def get_speed(text):
     match = re.search(r"\bD[45]\s*[-/]?\s*(\d{4,5})", text, flags=re.IGNORECASE)
     if match:
         return int(match.group(1))
-
     return ""
 def get_cl(text):
     match = re.search(r"CL\s*[-:]?\s*(\d+)", text, flags=re.IGNORECASE)
@@ -221,7 +224,7 @@ def get_source_key(category, product):
     text = text.strip("_")
     return text
 
-def get_product_result(brand, product, color, capacity, kit_type, model, speed, cl):
+def get_product_result(brand, product, color, nb, capacity, kit_type, model, speed, cl):
     parts = []
 
     if brand:
@@ -234,7 +237,8 @@ def get_product_result(brand, product, color, capacity, kit_type, model, speed, 
         current = " ".join(parts).lower()
         if color.lower().strip() not in current:
             parts.append(color.strip())
-
+    if nb:
+        parts.append(nb)
     if capacity:
         if kit_type:
             parts.append(f"{capacity}({kit_type})")
@@ -267,6 +271,7 @@ def get_ram(select):
         brand = get_brand(text)
         model = get_model(text)
         product = get_product(brand,text)
+        nb = get_nb(text)
         speed = get_speed(text)
         cl = get_cl(text)
         capacity = get_capacity(text)
@@ -281,6 +286,7 @@ def get_ram(select):
             brand=brand,
             product=product,
             color=color,
+            nb=nb,
             capacity=capacity,
             kit_type=kit_type,
             model=model,
