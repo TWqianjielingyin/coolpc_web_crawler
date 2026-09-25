@@ -103,9 +103,9 @@ PRODUCT_MAP = {
     ],
     "ZhiTai": [
         ("TiPlus 9100", r"TiPlus 9100"),
-        ("TiPro 9000", r"TiPro 9000"),
+        ("TiPro 9000", r"TiPro9000"),
         ("e7", r"e7"),
-        ("Ti600", r"Ti600"),
+        ("Ti 600", r"Ti600"),
         ("TiPlus 7100s", r"7100s"),
     ],
     "WD": [
