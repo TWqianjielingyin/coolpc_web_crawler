@@ -5,7 +5,7 @@ MB_INCLUDE = [
     "A520", "B550", "A620", "B650E", "B650", "B840", "B850", "X870E", "X870"
 ]
 MB_EXCLUDE = [
-    "WS", "AI TOP"
+    "WRX90", "TRX50"
 ]
 
 Brand_MAP = {
@@ -67,10 +67,14 @@ def drop_leading_square_brackets(text):
         return ""
     return text
 def extract_braced_product(text):
-    match = re.search(r"[{｛]([^{}｛｝]+)[}｝]", text)
-    if match:
-        return match.group(1).strip()
-    return text
+    opening = re.search(r"[{｛]", text)
+    if not opening:
+        return ""
+    match = text[opening.end():]
+    closing = re.search(r"[}｝]", match)
+    if closing:
+        return match[:closing.start()].strip()
+    return re.split(r"\(|,\s*\$", match, maxsplit=1)[0].strip()
 
 def get_product(text):
     name = drop_leading_square_brackets(text)

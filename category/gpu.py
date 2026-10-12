@@ -91,10 +91,14 @@ def get_model(text):
     return "Unknown"
 
 def extract_braced_product(text):
-    match = re.search(r"[{｛]([^{}｛｝]+)[}｝]", text)
-    if match:
-        return match.group(1).strip()
-    return text
+    opening = re.search(r"[{｛]", text)
+    if not opening:
+        return ""
+    match = text[opening.end():]
+    closing = re.search(r"[}｝]", match)
+    if closing:
+        return match[:closing.start()].strip()
+    return re.split(r"\(|,\s*\$", match, maxsplit=1)[0].strip()
 def remove_chinese(text):
     text = re.sub(r"[\u3400-\u9fff]+", " ", text)
     return re.sub(r"\s+", " ", text).strip()

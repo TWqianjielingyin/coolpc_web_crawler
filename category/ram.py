@@ -1,7 +1,7 @@
 import re
 
 RAM_INCLUDE = [
-    "DDR5", "DDR4", "D5", "D4"
+    "DDR5", "DDR4", "D5", "D4", "NB"
 ]
 RAM_EXCLUDE = [
     "DDR3", "D3", "ECC", "四根"
